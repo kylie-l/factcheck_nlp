@@ -10,13 +10,27 @@ nltk.download("punkt")
 nltk.download("punkt_tab")
 
 # --- Measurable or commitment patterns ---
+# CLAIM_PATTERNS = [
+#     r"\d+%",                           # percentages
+#     r"\bby\s+20\d{2}\b",               # "by 2030"
+#     r"\bin\s+20\d{2}\b",               # "in 2024"
+#     r"\b(before|through|until)\s+20\d{2}\b",  # time-related phrases
+#     r"\b(increase|reduce|decrease|achieve|target|commit|reach|cut|eliminate|offset|goal|aim|improve)\b"
+# ]
+
 CLAIM_PATTERNS = [
-    r"\d+%",                           # percentages
-    r"\bby\s+20\d{2}\b",               # "by 2030"
-    r"\bin\s+20\d{2}\b",               # "in 2024"
-    r"\b(before|through|until)\s+20\d{2}\b",  # time-related phrases
-    r"\b(increase|reduce|decrease|achieve|target|commit|reach|cut|eliminate|offset|goal|aim|improve)\b"
+    # --- Numeric patterns tied to environmental context ---
+    r"\b(?:reduced|cut|decreased|lowered|offset|saved|captured|avoided)\b[^.]{0,50}\b\d+%?\b",   # e.g., reduced by 20%
+    r"\b\d+%?\b[^.]{0,50}\b(?:reduction|decrease|cut|offset|savings|lower|lowering)\b",         # e.g., 25% reduction
+    r"\b(?:emissions|energy|waste|water|renewable|recycling|carbon|footprint|solar|fuel)\b[^.]{0,50}\b\d+%?\b",  # metric first or last
+    r"\bnet[-\s]?zero\b",                     # "net zero" or "net-zero"
+    r"\bcarbon[-\s]?neutral\b",               # "carbon neutral" or "carbon-neutral"
+    r"\bzero[-\s]?waste\b",                   # "zero waste"
+    r"\b100% renewable\b",                    # "100% renewable"
+    r"\bby\s+20\d{2}\b",                      # time-bound commitments ("by 2030")
+    r"\b(in|before|after|until)\s+20\d{2}\b", # temporal phrasing
 ]
+
 
 
 def extract_text_from_html(path):

@@ -9,18 +9,6 @@ from config.env_keywords import ENV_KEYWORDS
 nltk.download("punkt")
 nltk.download("punkt_tab")
 
-# --- Environmental ESG keywords only ---
-# ENV_KEYWORDS = [
-#     "climate change", "carbon", "greenhouse gas", "ghg", "emission",
-#     "renewable", "solar", "wind", "geothermal", "hydrogen",
-#     "recycling", "waste reduction", "water use", "water conservation",
-#     "biodiversity", "deforestation", "net zero",
-#     "energy efficiency", "sustainability report", "environmental impact",
-#     "pollution", "scope 1", "scope 2", "scope 3", "green", "sustainability",
-#     "zero waste", "carbon neutral", "low-carbon", "clean energy", "decarbonize",
-#     "eco-friendly"
-# ]
-
 # --- Measurable or commitment patterns ---
 CLAIM_PATTERNS = [
     r"\d+%",                           # percentages
@@ -38,10 +26,12 @@ def extract_text_from_html(path):
     soup = BeautifulSoup(html, "html.parser")
     return soup.get_text(separator="\n")
 
+
 def extract_text_from_txt(path):
     """Load plain text (for CSR reports)."""
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
+
 
 def contains_env_keyword(sentence):
     """Check if the sentence contains a standalone environmental keyword."""
@@ -51,9 +41,11 @@ def contains_env_keyword(sentence):
             return True
     return False
 
+
 def contains_claim_pattern(sentence):
     """Check if the sentence contains measurable or numeric language."""
     return any(re.search(pat, sentence, re.I) for pat in CLAIM_PATTERNS)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Extract environmental claims from text or HTML files.")
@@ -80,19 +72,15 @@ if __name__ == "__main__":
             company = parts[0] if parts else "unknown"
             filing = parts[1] if len(parts) > 1 else "unknown"
 
-
         try:
             text = extract_text_from_html(path) if fname.endswith(".html") else extract_text_from_txt(path)
 
             for para in text.split("\n"):
-                # Split into sentences first (this will handle long paragraphs)
                 sentences = sent_tokenize(para)
                 for sent in sentences:
                     sent = sent.strip()
-                    # Skip overly long or short sentences
                     if len(sent.split()) < 5 or len(sent.split()) > 60:
                         continue
-                    # Only keep sentences that are actual environmental claims
                     if contains_env_keyword(sent) and contains_claim_pattern(sent):
                         output.append({
                             "company": company,
@@ -104,9 +92,23 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"❌ Error parsing {fname}: {e}")
 
+    # --- NEW: Drop duplicates by claim_text ---
+    unique_output = []
+    seen = set()
+    for record in output:
+        key = (record["company"], record["claim_text"].strip().lower())
+        if key not in seen:
+            seen.add(key)
+            unique_output.append(record)
+
+
+    num_dropped = len(output) - len(unique_output)
+
+    # --- Save cleaned JSONL ---
     with open(OUT_PATH, "w", encoding="utf-8") as f:
-        for record in output:
+        for record in unique_output:
             f.write(json.dumps(record) + "\n")
 
-    print(f"\n✅ Extracted {len(output)} environmental claims from {len(files)} files.")
+    print(f"\n✅ Extracted {len(unique_output)} unique environmental claims from {len(files)} files.")
+    print(f"🗑️ Dropped {num_dropped} duplicate claims.")
     print(f"Saved to {OUT_PATH}")

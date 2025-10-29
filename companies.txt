@@ -1,4 +1,9 @@
 Microsoft
 Apple
 Amazon
-Tesla
+Google
+Nestle
+Unilever
+Ford
+ExxonMobil
+Shell

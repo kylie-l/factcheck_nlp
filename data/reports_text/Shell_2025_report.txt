@@ -1,0 +1,990 @@
+#PoweringProgress Shell plc Energy Transition Strategy 2024 Contents 2 Chair's message 4 CEO introduction 6 Strategy and progress: summary 11 The energy system: our beliefs 20 Shell's strategy to 2030 33 More value, less emissions: our actions 46 Targets, ambitions and performance 53 Shell net zero by 2050 54 Just transition and governance 57 Climate litigation 58 Climate standards and benchmarks .
+In this publication, we set out our updated energy transition plans and take stock of our progress, three years after the launch of our Powering Progress strategy.
+We show our strategy in action as we transform into a net-zero emissions energy business.
+Energy Transition Strategy 2024 Welcome 1 Shell Energy Transition Strategy 2024 Chair's message Our target to become a net-zero emissions energy business by 2050 remains at the heart of our strategy.
+Sir Andrew Mackenzie Chair This energy transition update marks an important moment for Shell.
+It comes three years after we launched our Powering Progress strategy, and builds on our Capital Markets Day in June 2023 when we set out our plans to create more value with less emissions.
+Our target to become a net-zero emissions energy business by 2050 remains at the heart of our strategy and is transforming our operations and energy products.
+We believe this target supports the more ambitious goal of the Paris Agreement, to limit the rise in the global average temperature to 1.5°C above pre-industrial levels.
+As we work towards net zero, we are reducing emissions from our operations and energy products while becoming an increasingly successful organisation.
+Our energy transition plans cover all our businesses: Integrated Gas, Upstream and Downstream, Renewables and Energy Solutions.
+In this publication, we set out pathways to net zero for our two biggest customer sectors – transport and industry – based on where we believe we have the competitive advantages to provide our customers with the products they need through the transition.
+Helping reduce emissions for our customers We want to lead in the decarbonisation of transport using the strength of our brand, deep customer relationships and global reach.
+We aim to grow our public charging network for electric vehicles, and remain one of the world’s largest blenders and distributors of biofuels [A].
+As the energy transition progresses, we expect to sell more low-carbon products and solutions, and less oil products including petrol and diesel.
+To measure our progress, we have set a new ambition to reduce customer emissions from the use of our oil products by 15-20% by 2030 compared with 2021 (Scope 3, Category 11) [B].
+[A] Includes volumes from our joint venture Raízen [B] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569 million tonnes CO2e in 2021.
+2 Shell Energy Transition Strategy 2024 The world needs a balanced and orderly transition away from fossil fuels to maintain secure energy supplies, while accelerating the transition to affordable low-carbon solutions.
+We are growing our world-leading liquefied natural gas (LNG) business so that we can continue to provide a critical fuel in the energy transition.
+Our investments in carbon capture and storage, hydrogen and renewable energy will help us produce LNG with lower carbon intensity in the future.
+Through our world-class trading business, we can connect the supply of low-carbon energy to demand, as we have done for many years with oil, gas and LNG.
+As we work towards net zero, we are making clear choices about where we can add most value for our investors and customers.
+We expect renewable power will be critical for helping our commercial customers decarbonise, and plan to build our integrated power business in places including Australia, Europe, India and the USA.
+We have withdrawn from the supply of energy directly to homes in Europe because we do not believe we have a competitive position there.
+Technologies of the future We are increasing our investments in research and development, and investing in the fuels of the future.
+We aim to scale up new technologies to create affordable options for our customers into the 2030s.
+We are building Holland Hydrogen 1, one of the largest renewable hydrogen plants in Europe, close to our Energy and Chemicals Park Rotterdam in the Netherlands.
+We are also investing in carbon capture and storage technology to reduce emissions from our own operations such as refineries and LNG plants, and, in the longer term, to help our industrial customers reduce their emissions too.
+I saw first-hand the potential of some of the exciting new technologies we are developing when I visited Oman in January 2024.
+We are part of a group exploring a project to produce green ammonia and liquefied synthetic gas from renewable hydrogen.
+These technologies are still in the early stages, but they could help to decarbonise industry and commercial road transport in the future.
+More value with less emissions At our Capital Markets Day, we said we would deliver more value with less emissions.
+We have made good progress in our first year under our new Chief Executive Officer Wael Sawan.
+In 2023, we returned 42% of our cash flow from operations to our shareholders, the upper end of our 30-40% range through the cycle.
+We also reduced carbon emissions from our operations by 31% compared with 2016 levels, putting us well on the way towards our target of a 50% reduction by 2030 on a net basis.
+We achieved our short-term target to reduce the net carbon intensity of the energy products we sell, with a 6.3% reduction against our target of 6-8% compared with 2016.
+Transparency and shareholder support In 2021, 89% of our shareholders voted in support of our Energy Transition Strategy.
+Since then, we have published two progress reports, which our shareholders have also supported.
+Along with other Board members, I met with many of Shell's largest institutional shareholders following those votes.
+I appreciate their time and feedback and look forward to our next engagement in April 2024.
+The publication of our Energy Transition Strategy brings increased transparency, and better dialogue with our institutional investors.
+We heard that following Capital Markets Day, for example, some wanted us to be clearer about how we will deliver both more value and less emissions, and we are showing exactly that in this update.
+This year, we are again asking our shareholders to vote at our Annual General Meeting on our Energy Transition Strategy.
+As before, this vote is purely advisory, and not binding for our shareholders.
+The legal responsibility for approving or objecting to Shell's strategy lies with the Board and Executive Committee.
+We believe our strategy will transform Shell into a net-zero emissions energy business, creating value for our shareholders, customers and wider society.
+We will offer shareholders an advisory vote at the 2024 Annual General Meeting based on the energy transition plans described in this publication and our Annual Report and Accounts 2023.
+The Board recommends that shareholders vote in favour of the Resolution asking them to support those plans.
+Sir Andrew Mackenzie Chair Chair’s message continued Shell Energy Transition Strategy 2024 3 2 3 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 CEO introduction Shell has an important role to play in providing the energy the world needs today, and in helping to build the low-carbon energy system of the future.
+Wael Sawan Chief Executive Officer This is our first update to the Energy Transition Strategy that we published in 2021.
+It is an opportunity to take stock of our progress, to reflect on what we have learned, and to look forward as we transform Shell into a net-zero emissions energy business by 2050.
+Over the past three years we have seen the critical importance of secure and affordable energy for economies and people's lives.
+As the world's population grows by an estimated 2 billion people by 2050, and the benefits of energy are extended to the hundreds of millions who do not have it today, demand for energy will only grow.
+At the same time, the world must achieve an orderly transition away from fossil fuels to low-carbon energy to achieve net-zero emissions.
+Today, fossil fuels meet around 80% of global energy demand, with an even greater reliance in many developing countries.
+We support a balanced energy transition, one that maintains secure and affordable energy supplies as the world moves to net zero.
+I am encouraged by the rapid progress in the energy transition in many countries and technologies in recent years, including the continued growth in demand for liquefied natural gas (LNG), a critical fuel in the energy transition, and for lowcarbon energy solutions such as solar and wind power, and electric vehicles.
+This progress reinforces my deep conviction in the direction of our strategy.
+Shell has an important role to play in providing the energy the world needs today, and in helping to build the low-carbon energy system of the future.
+There are exciting opportunities to use the strength of our innovation capabilities in the areas where we can have the greatest impact.
+Our purpose – to provide more and cleaner energy solutions – sets the direction for everything we do.
+Progress towards our targets Since we launched our Powering Progress strategy, we have made good progress against our climate targets, and learned where we have competitive strengths.
+By the end of 2023, we had achieved more than 60% of our target to halve emissions from our operations by 2030, compared with 2016.
+We achieved this by adapting our portfolio, including by repurposing refineries, and making changes to our operations such as powering some oil and gas platforms with renewable energy.
+4 Shell Energy Transition Strategy 2024 We continue to be one of the leaders in reducing emissions of methane, a potent greenhouse gas that can be released during oil, gas and LNG production.
+We were one of the first companies to set a target to achieve near-zero methane emissions by 2030.
+In 2023, we continued to keep our methane emissions intensity well below 0.2%.
+We made good progress towards our target to eliminate routine flaring from our upstream operations, compared with 2016 [A].
+We also met our short-term target to reduce the net carbon intensity of the energy products we sell, with a 6.3% reduction against our target of 6-8% compared with 2016.
+More value, less emissions At our Capital Markets Day in June 2023, we outlined how our Powering Progress strategy delivers more value with less emissions, emphasising the "more value" part of our strategy.
+In this energy transition update, we are focusing on how the same strategy delivers "less emissions".
+Our energy transition plans cover all our businesses.
+In Integrated Gas, we are growing our world-leading LNG business with lower carbon intensity.
+In Upstream, we are reducing emissions from oil and gas production.
+In Downstream and Renewables and Energy Solutions, we are growing sales of low-carbon products and solutions such as biofuels, electric vehicle charging and renewable power, while investing in hydrogen and other fuels of the future.
+Our focus on performance, discipline and simplification is driving clear choices about where we can create the most value for our investors and customers through the energy transition.
+Our ability to raise and invest capital depends on delivering strong returns to shareholders, shaping the role that Shell can play on the journey to net zero.
+We believe this focus makes it more, not less, likely that we will achieve our climate targets and ambitions.
+Reducing emissions from production We believe the world will continue to need oil and gas for many years -- produced with much lower emissions -- alongside cleaner energy such as advanced biofuels, renewable power and hydrogen.
+We expect LNG will play a critical role in the transition.
+It continues to provide a secure supply of energy in many European countries.
+It also offers flexibility to electricity grids as wind and solar power grow, and opportunities to lower carbon emissions from industries such as cement and steel by replacing coal.
+In the future, by powering our LNG plants with renewable electricity, and adding carbon capture and storage, we aim to lower the carbon intensity of our LNG plants.
+Our LNG joint venture in Canada (Shell interest 40%), for example, the largest private-sector investment in the country's history, will use natural gas and renewable electricity to reduce emissions from the plant by more than one-third compared with the world’s best performing facilities.
+The Vito platform in the Gulf of Mexico (Shell interest 63.1%) is reducing emissions from oil and gas production.
+The platform started production in 2023 and is expected to produce around 80% less carbon dioxide emissions over its operating life, compared with the original design.
+We are using the same concept for two more platforms in the Gulf of Mexico, Whale (Shell interest 60%) and Sparta (Shell interest 51%).
+Supporting our customers as they decarbonise We aim to lead in the energy transition where we have competitive strengths, see strong customer demand, and identify clear regulatory support from governments.
+The transport sector is a good example.
+We are building on our customer relationships and expertise to help drive the decarbonisation of passenger cars, heavyduty trucks, planes and ships.
+We aim to grow our public charging network for electric vehicles, and stay a leader in biofuels including sustainable aviation fuels or renewable diesel made from waste.
+By repurposing our remaining integrated refineries to focus on four regional energy and chemicals parks, we are creating the low-carbon production hubs of the future.
+As we grow sales of low-carbon fuels we expect to reduce sales of oil products such as petrol and diesel.
+We have set a new ambition to measure our progress, to reduce customer emissions from the use of our oil products by 15-20% by 2030 compared with 2021 (Scope 3, Category 11) [B].
+Our ambition is in line with the European Union's climate goals for transport, which are among the most progressive in the world.
+Our focus on value has led to a strategic shift in our power business towards select markets and segments.
+One example is selling more power to commercial customers, including renewable power, and less to retail customers.
+As a result, we expect lower growth in sales of power overall.
+We have updated our net carbon intensity target to reflect that change, with a 15-20% reduction by 2030, compared with 2016, against 20% previously.
+Towards net zero In total, we invested $5.6 billion in low-carbon solutions in 2023, which was 23% of our capital spending.
+We are spending $10-15 billion on low-carbon solutions between 2023 and 2025, making us a significant investor in the energy transition.
+With our focused approach, we believe our investments will have an important impact, allowing us to develop low-carbon solutions at increasingly affordable prices for our customers.
+Shell will provide the different kinds of energy the world needs.
+We will invest in producing LNG with lower carbon intensity, in reducing emissions from oil and gas production, and in providing cleaner energy solutions.
+As we transform Shell into a net-zero emissions energy business, we believe we are the investment case and the partner of choice through the energy transition.
+Wael Sawan Chief Executive Officer [A] Subject to the completion of the sale of Shell Petroleum Development Company of Nigeria Limited (SPDC).
+[B] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569 million tonnes CO2e in 2021.
+CEO introduction continued Shell Energy Transition Strategy 2024 5 4 5 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Our Energy Transition Strategy 2024 Our key beliefs have informed our strategy, enabled our progress, and will allow us to deliver on our updated targets and ambitions.
+Our target to achieve net-zero emissions by 2050 across all our operations and energy products is transforming our business.
+We believe this target supports the more ambitious goal of the Paris Agreement, to limit the rise in the global average temperature to 1.5°C above pre-industrial levels.
+At our Capital Markets Day in June 2023, we outlined how our Powering Progress strategy delivers more value with less emissions, emphasising the "more value" part of our strategy.
+In our Energy Transition Strategy 2024, we are focusing on how the same strategy delivers "less emissions".
+By the end of 2023, we had achieved more than 60% of our target to halve Scope 1 and 2 emissions from our operations by 2030, compared with 2016, and reduced our total methane emissions by 70%.
+Today, the world must meet growing demand for energy while tackling the urgent challenge of climate change.
+There needs to be a balanced and orderly transition away from fossil fuels to low-carbon energy solutions to maintain secure and affordable energy supplies.
+1 2 3 4 We believe liquefied natural gas (LNG) will play a critical role in the energy transition, replacing coal in heavy industry.
+It also has a continued role in displacing coal in power generation, helping to reduce local air pollution and carbon emissions.
+LNG helps to provide the flexibility the power system needs, at a time when renewable generation is growing rapidly.
+Investment in oil and gas will be needed because demand for oil and gas is expected to drop at a slower rate than the natural decline rate of the world’s oil and gas fields, which is 4-5% a year.
+We expect rapid growth in electric vehicles, including electric trucks, and believe biofuels and natural gas will also play a role in reducing emissions from heavy-duty transport.
+To help drive the decarbonisation of transport, we have set a new ambition to reduce customer emissions from the use of our oil products by 15-20% by 2030 compared with 2021 (Scope 3, Category 11).
+That is more than 40% compared with 2016 reported emissions.
+[A] We believe carbon abatement technologies such as carbon capture and storage will be needed for the world to reach net-zero emissions.
+We believe once key regulations, technologies and standards are in place, a large-scale business for carbon credits will emerge.
+Our focus on performance, discipline and simplification is driving clear choices about where we can create the most value for our investors and customers.
+We believe renewable energy will be an essential part of a net-zero world.
+In line with our strategic shift to prioritise value over volume in power, we are concentrating on select markets and segments.
+As a result, we expect lower growth of power sales overall.
+We are now targeting a 15-20% reduction in the net carbon intensity of the energy products we sell by 2030, compared with 2016, against 20% previously.
+6 7 8 9 We are investing $10-15 billion in low-carbon energy solutions between 2023 and the end of 2025, making us a significant investor in the energy transition.
+By providing the different kinds of energy the world needs, we believe we are the investment case and the partner of choice through the energy transition.
+5 10 [A] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023, 569 million tonnes CO2e in 2021 and 819 million tonnes CO2e in 2016.
+Of the 40% reduction by 2030, around 8 percentage points are related to volumes associated with additional contracts being classified as held for trading purposes, impacting reported volumes from 2020 onwards.
+6 7 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 ∘Completed the acquisition of renewable power company Sprng Energy, and took a final investment decision on Holland Hydrogen 1 and LNG expansion projects in Qatar.
+∘Introduced three new metrics in the annual bonus scorecard to reflect Shell’s role in the energy transition.
+∘Simplified our share structure, allowing us to manage our portfolio with greater agility through the energy transition.
+∘Invested $5.6 billion in low-carbon solutions, of our total capital spending of $24.4 billion in 2023.
+This included the acquisition of Nature Energy, one of the largest producers of renewable natural gas in Europe.
+∘Our Timi platform in Malaysia, mainly powered by solar and wind energy, started production.
+The Vito platform in the US Gulf of Mexico also started production, with 80% less CO2 emissions expected over its lifetime compared with the original design.
+∘The Hollandse Kust Noord wind park off the coast of the Netherlands became operational.
+∘Shell’s management team hosted its first Capital Markets Day in New York and set out Shell’s strategy to deliver more value with less emissions.
+∘Achieved our target to reduce the net carbon intensity of the energy products we sell by 6-8% by the end of 2023 compared with 2016.
+∘Reduced our operational emissions (Scope 1 and 2) by 31% by the end of 2023 compared with 2016, more than halfway towards our target to reduce them by 50% by 2030 on a net basis.
+∘Won majority shareholder support (80% of votes) for our energy transition progress at our Annual General Meeting.
+∘Completed the divestment of our Permian assets in the USA and bought solar company Savion in the USA.
+∘Offered shareholders an advisory vote on our energy transition strategy.
+The strategy was overwhelmingly supported.
+∘Introduced target to become a net-zero emissions energy business by 2050, and a target to halve Scope 1 and 2 under our operational control by 2030 on a net basis (2016 reference year).
+Published our first Industry Associations Climate Review, which reviewed alignment between Shell’s climate-related policy positions and 19 key industry associations.
+2019 Signed a joint statement with Climate Action 100+ investor group announcing steps taken by Shell demonstrated alignment with the goals of the Paris Agreement.
+2018 2021 2022 2023 Announced ambition to reduce the carbon intensity of the energy products we sell by around half by 2050 (Scope 1, 2 and 3).
+2017 Our journey towards net zero 2020 ∘Announced ambition to become a net-zero emissions energy business by 2050.
+∘Extended the energy transition performance metric to around 16,500 employees through the Performance Share Plan (PSP).
+Our updated targets and ambitions Halving Scope 1 and 2 emissions by 2030 [A] under operational control (2016 reference year) Maintain methane emissions intensity below 0.2% and achieve near-zero methane emissions by 2030 Eliminating routine flaring from Upstream operations by 2025 [B] Target Target Target Emissions from our own operations (Scope 1 and 2) Emissions from the products we sell (Scope 3) Growing our world-leading LNG business with lower carbon intensity Cutting emissions from oil and gas production while keeping oil production stable Transforming our businesses to offer more low-carbon solutions while reducing sales of oil products Differentiated Downstream, Renewables and Energy Solutions Advantaged Upstream Leading Integrated Gas 2024 Net-zero emissions by 2050 (Scopes 1, 2 and 3) Trading and optimisation capabilities Our energy transition plans cover all our businesses Ambition Target Oil products ambition Reduce customer emissions from the use of our oil products by 15-20% by 2030, Scope 3 Category 11 [C] (2021 reference year) Net carbon intensity (NCI) Introducing a range of 15-20% for our target to reduce NCI by 2030 (2016 reference year) New Updated [A] On a net basis.
+[B] Subject to completion of the sale of SPDC.
+[C] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569 million tonnes CO2e in 2021.
+8 9 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Our progress towards net zero Net carbon intensity (NCI) [C] g CO2e/MJ Scope 1 and 2 operational emissions [A] million tonnes CO2e Methane emissions intensity [A] [E] % Total routine flaring [A] [H] million tonnes of hydrocarbons flared NCI target achieved for third year in a row [D] 2023 2024 2025 2030 -6.3% -9-12% -9-13%-15-20% 2050 -100% -3.8% 2022 -2.5% 2021 79 2016 [B] Target Actual 2023 2030 -9% -15-20% 2021 [B] 569 Ambition Actual Assets with marketed gas [F] Assets without marketed gas [G] 0.00 0.10 2023 2022 2021 2016 0.05 0.00 0.55 1.10 2023 2022 2021 2016 Customer emissions from the use of our oil products (Scope 3, Category 11) [I] million tonnes CO2e 2016 [B] 2022 2021 2023 2030 2050 83 41 57 58 68 0 50% target reduction by 2030 More than 60% of our 2030 target Target Actual Reducing emissions associated with our customers’ use of energy products Reducing Scope 1 and 2 emissions under our operational control Carbon performance at a glance We believe our total absolute emissions peaked in 2018 at 1.73 gigatonnes of carbon dioxide equivalent (GtCO2e).
+[A] Operational control boundary.
+Scope 1 and 2 target is on a net basis.
+[C] Shell's NCI is the average intensity, weighted by sales volume, of the energy products sold by Shell.
+Estimated total greenhouse gas (GHG) emissions included in NCI correspond to wellto-wheel emissions associated with energy products sold by Shell, on an equity boundary, net of carbon credits.
+This includes the well-to-tank emissions associated with the manufacturing of energy products by others that are sold by Shell.
+Emissions associated with the manufacturing and use of non-energy products are excluded.
+[D] 2021 target 2-3%, 2022 target 3-4%, 2023 target 6-8%, all achieved.
+Acknowledging uncertainty in the pace of change in the energy transition, we have also chosen to retire our 2035 target of a 45% reduction in net carbon intensity.
+[E] Our target is to maintain methane emissions intensity below 0.2% and achieve near-zero methane emissions by 2030.
+[F] Methane emissions intensity from all oil and gas assets for which Shell is the operator that market their gas (including LNG and GTL assets), defined as the total volume of methane emissions in normal cubic meter (Nm3) per total volume of gas available for sale in Nm3.
+[G] Methane emissions intensity from all oil and gas assets for which Shell is the operator that do not market their gas (e.g.
+where gas is reinjected) defined as the total mass of methane emissions in tonnes per total mass of oil and condensate available for sale in tonnes.
+[H] Our target is to eliminate routine gas flaring from upstream operations by 2025, subject to the completion of the sale of SPDC.
+[I] We have set a new ambition to reduce absolute emissions related to the use of our oil products by 15-20% by 2030, compared with 2021 (Scope 3 Category 11).
+Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569 million tonnes CO2e in 2021.
+The energy system: our beliefs Today, fossil fuels meet around 80% of the world's primary energy use.
+There is even greater reliance in many developing countries where security of supply and stable prices are critical to their development.
+The world's primary energy demand is just over 300 million barrels of oil equivalent per day (mboe/d); with around 250 mboe/d from fossil fuels.
+Of this, 100 mboe/d is from oil, 80 mboe/d is from coal and 70 mboe/d is from gas.
+As demand for energy continues to grow, driven by rising populations and increased prosperity, the world must transition from fossil fuels to low-carbon energy in a balanced way to achieve net-zero emissions.
+The transition to net zero will not be linear, as different countries take different approaches and move at different paces.
+Public policy, developments in technology and infrastructure, and a functioning carbon market are essential to create the demand signals for the private sector to invest at scale.
+This will require collaboration between policymakers, customers and private organisations like Shell that have the financial strength, experience and capabilities to help build the new energy system.
+Developing our beliefs We have developed our beliefs through our engagements with customers, policymakers, scientists and thought leaders from around the world.
+We have used research from our technology programmes, along with work carried out by the International Energy Agency, the Intergovernmental Panel on Climate Change and several other external bodies.
+We have also drawn from the expertise in our own energy security scenarios, Sky 2050 and Archipelagos, which we published last year.
+Although our scenarios are not expressions of our strategy and are not our business plans, they help inform our beliefs.
+Our scenarios are quantified by our World Energy Models, which are supplemented with climate analysis done in conjunction with Massachusetts Institute of Technology.
+We will continue to challenge our own beliefs as technology, policy and customer preferences evolve.
+Increasing demand Since 2000, annual air mileage has tripled, passenger road mileage has doubled, and production of steel has more than doubled.
+We expect continued growth in the transport and industrial sectors, driven by rising populations and higher living standards in emerging and developing countries, where more than a quarter of the world's population still lack basic energy provisions.
+Oil demand has grown from 57 million barrels a day (mb/d) to almost 100 mb/d in the last 40 years, with occasional annual declines in recessions, and the notable decline caused by the Covid pandemic.
+In all cases, demand has rebounded.
+However, we believe growth in oil demand is set to slow in the second half of this decade, and could start falling in the 2030s because of increasing vehicle efficiency and growth in electric vehicles.
+Shell Energy Transition Strategy 2024 11 Population x1.5 x3.4 x5.3 x3.1 x2.2 x2.6 2000 2040 GDP Aviation (passenger km) Passenger road (vehicle km) Marine (tonne km) Heavy industry (tonne steel equivalent) Population, GDP, demand and consumption of energy 2000-2040 Source: Shell analysis and IEA’s Extended energy balances (2023).
+10 11 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Demand for natural gas has also seen steady growth over the last 40 years, adding an average of about 60 billion cubic metres (bcm) of new demand a year.
+Demand for liquefied natural gas (LNG) has grown much faster, from about 30 million tonnes per annum (mtpa) in 1983 to more than 400 mtpa in 2023.
+Today, LNG makes up around 13% of the global gas market, a figure expected to exceed 20% by 2040.
+The global LNG market will continue growing at least through the 2030s, mostly driven by industrial decarbonisation in China, and strengthening demand in other Asian countries.
+LNG can help displace the use of coal in industry and power generation, and can top up supply in regions of declining domestic gas production such as Europe.
+The prospects for LNG demand are increasingly independent of pipeline natural gas because the fuel can be transported at short notice, and can also be used as a substitute for highercarbon liquid fuels in shipping.
+Global demand for coal rose by 3.6% from 2013 to the end of 2023, when it reached a new high.
+This increase was fuelled by strong demand in developing economies.
+Coal demand increased by 35% in India and by 13% in China during this 10-year period, due to rising demand for electricity and weak hydropower output.
+We believe replacing coal with natural gas, LNG and renewable power will be a key factor in reducing emissions.
+The energy system: our beliefs continued 12 Shell Energy Transition Strategy 2024 Significant investment will be required to keep supplying oil and gas while low-carbon alternatives are developed and made commercially available.
+This continued investment is needed because demand for oil and gas is expected to drop at a slower rate than the natural decline of the world's oil and gas fields, which is at 4% to 5% a year.
+Worldwide oil and gas production, outside North America, has been at around 120 mboe/d from 2013 until the end of 2023, despite cumulative oil and gas investment of more than $2 trillion over the same period.
+Current global investment in low- and zero-carbon energy is around $1.7 trillion a year.
+To reach net zero by 2050, scenarios suggest that $3-4 trillion of commercially viable investment in low-carbon energy is required each year.
+The energy system: our beliefs continued Shell Energy Transition Strategy 2024 13 Primary energy demand by region and energy source, 2023 Exajoule a b c d e Bioenergy [A] a Nuclear and electric renewables [B] b Coal d Natural gas c Oil e 164 China 37 Middle East 84 Other Asia-Paciﬁc 141 Americas 43 India 97 Rest of world 68 Europe [A] Bioenergy includes traditional and modern uses of biomass in solid, liquid or gaseous form.
+[B] Electric renewables include hydroelectricity, solar and wind.
+Source: Shell analysis of IEA Extended Energy Balances (2023).
+Final energy demand by sector and energy carrier, 2023 Exajoule Bioenergy [B] a Heat b Gaseous fossil [C] d Electricity c Solids fossil [C] e Liquids fossil [C] f a b d c e f 14 Aviation 11 Marine 42 Non-energy use 34 Commercial road 55 Passenger road 75 Heavy industry 75 Light industry [A] 127 Buildings [A] Includes rail, less than 5% of this category.
+[B] Bioenergy includes traditional and modern uses of biomass, biofuels and biogas.
+[C] Gaseous is mostly natural gas; solids is mostly coal; liquids is mostly oil.
+However, crossovers exist, such as LPG (gaseous oil product) and CTL (liquified coal).
+Source: Shell analysis of IEA Extended Energy Balances (2023).
+Energy investment 12 13 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Global greenhouse gas emissions in 2023 Carbon dioxide (CO2) emissions from the energy system amounted to almost three-quarters of global greenhouse gas emissions in 2023.
+Tighter government policies will help to reduce carbon emissions at a rate consistent with the temperature goals of the Paris Agreement.
+Even without these policies, we expect that the global demand for fossil fuels would fall from today's level of around 80% to below 70% by 2040.
+If the world follows a path to net-zero emissions by 2050, the figure could go down to 50%.
+This will be driven by electrification and the scaling-up of renewable energy generation.
+The energy system: our beliefs continued Shell Energy Transition Strategy 2024 14 Industry makes up 44% of the world's final energy use, with oil, gas and coal meeting almost 64% of this demand.
+Today, industry also uses substantial amounts of power generated by fossil fuels.
+The sector includes heavy industry, light industries such as manufacturing, mining and agriculture, and non-energy use feedstocks in chemicals.
+Heavy industry Heavy industry includes the energy-intensive production of steel and cement, which use high-temperature processes that can be hard and expensive to electrify.
+This sector represents 17% of final energy use, mainly in the form of coal, gas and electricity.
+Higher standards of living are built on the output of heavy industry.
+For example, the in-use stock per capita of steel in OECD countries ranges from 10-15 tonnes per person (t/p) compared with a world average of around 4 t/p [A].
+Since 2000, OECD countries have seen a modest decline in energy demand as industrial output has plateaued.
+In non-OECD countries, demand has nearly tripled, driven by industrialisation.
+Much of this increase in demand comes from China, which currently produces around half the world's steel and cement.
+The use of coal in heavy industry has fuelled much of the industrial growth in non-OECD countries over the last two decades, while OECD countries use far less coal and proportionally more gas and power.
+In non-OECD countries, gas and electricity have increased their market share against coal, and we expect this trend to continue.
+We believe natural gas and LNG will play an important role in replacing coal in high-temperature heavy industry applications.
+They can help address both local air emissions and wider climate considerations.
+More plentiful and affordable renewable electricity will also play a role in decarbonising this sector.
+Once electrification has taken place, gas will have a back-up role because many industrial processes require a high reliability of power supply.
+We also see potential for hydrogen in the long-term when it becomes cost competitive.
+[A] Source: International Energy Agency.
+Iron and Steel Technology Roadmap reserved.
+Light industry Light industry constitutes around 17% of final energy use.
+Its energy requirements vary from fuel for heavy equipment to medium-level heat and electricity for manufacturing facilities.
+The energy mix for light industry includes coal, oil, gas, electricity and some commercial biomass.
+Many areas of light industry have already switched to electrification.
+We see this trend continuing with more action needed to increase efficiency.
+Supportive government policies are also needed to decarbonise the sector.
+Non-energy use Non-energy use is dominated by petroleum feedstocks and natural gas, and some coal in Asia.
+It represents about 10% of final energy use, but there are limited emissions as the feedstocks are transformed into material goods such as lubricants, plastics and fertilisers.
+Many of these products indirectly help reduce emissions when used in insulation in buildings or in plastics which reduce the weight of vehicles.
+We believe bio-feedstocks and recycling will grow in importance in this sector.
+The energy system: our beliefs continued Shell Energy Transition Strategy 2024 15 Industry Heavy industry [A] 20% Land-use change [E] 7% Light industry [B] 14% Other greenhouse gases [D] 28% Passenger road transport 7% Freight road transport 4% Marine 1% Buildings [C] 17% Aviation 2% CO2 Total 58 Gt CO2e Estimated net global greenhouse gas emissions, 2023 [A] Includes emissions from industrial processes, 18% of this category.
+[B] Includes rail, 3.5% of this category.
+[C] Emissions for operation of buildings - not construction (which is in industry sectors).
+[D] 70% methane, from agriculture and fossil production and use; 23% nitrous oxide; 7% others.
+[E] Land use, land-use change emissions and forestry (LULUCF).
+Source: Shell analysis and IEA’s Extended energy balances (2023).
+Energy consumption in heavy industry Exajoule Solid (fossil) 2000 OECD Non-OECD 2023 2000 2023 a b e f c d Electricity from coal [A] Electricity from other [A] [B] Electricity from natural gas [A] Gaseous (fossil) Other [C] 0 10 20 30 40 50 60 [A] Includes heat.
+[B] Consists of nuclear, renewables and oil.
+[C] Includes liquid fossil fuels and bioenergy.
+Source: Shell analysis of IEA's Extended Energy Balances (2023).
+14 15 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 The transport sector represents nearly 30% of final energy use, with oil products meeting more than 90% of this demand.
+The remainder is mostly met by LNG, compressed natural gas and biofuels.
+Global CO2 emissions from transport amount to around 8 gigatonnes (GT) a year, which is about one-seventh of global emissions.
+Oil products dominate transport because of their high energy density, convenience and cost competitiveness.
+In some markets, such as Europe and the USA, alternative transport fuels like ethanol are mandated.
+In Europe, where road transport fuel taxes are high, electric vehicles are increasingly cost competitive.
+However, in marine and aviation alternatives remain expensive.
+Bio-alternatives are at least twice the cost of oil products, and synthetic fuels manufactured from hydrogen can be up to eight times more expensive.
+The energy system: our beliefs continued 16 Shell Energy Transition Strategy 2024 Passenger road transport Today, there are around 1.3 billion cars on the road, consuming around 25 million barrels of oil per day (mb/d), which is a quarter of the world's oil production.
+Biofuels such as ethanol are used in some markets but currently amount to less than 5% of demand.
+We expect a rapid growth in electric vehicles, including plug-in hybrids.
+Today there are around 40 million such vehicles on the roads, with up to 275 million expected by 2030.
+The availability of charging points will be critical for the growth in electric vehicles.
+The share of electric cars in new car sales has increased from less than 3% in 2018 to 18% in 2023.
+The most rapid growth is in China, the world's largest car market, followed by Europe and the USA.
+In China, there are a wide range of vehicles for sale at under $40,000, while in other markets electric vehicles generally sell at above this price before government subsidies are applied.
+Commercial road transport Commercial road transport, which includes 70 million trucks, uses 16 mb/d.
+We believe the shift of commercial road transport towards low-carbon solutions is less than a decade behind that of passenger cars.
+We expect that biofuels and renewable natural gas will keep playing a role in reducing emissions from trucks.
+In the long term, we expect electricity or hydrogen to become the main paths to decarbonisation, depending on advances in technology, government policy and customer preferences.
+Aviation Demand for aviation fuel has rebounded from its Covid lows and is now at about 7 mb/d.
+Sustainable aviation fuel (SAF) made from used cooking oils and other feedstocks is seen as a credible alternative to jet fuel.
+Today, SAF represents less than 0.1% of total demand, but we expect its market share to grow with support from governments.
+Around 11 markets have SAF targets, including Europe and Singapore.
+Some 25 airlines representing a combined 35% of global aviation emissions also have SAF targets.
+Government mandates are essential to increase demand for SAF because it costs consumers between two and four times more than conventional aviation fuel.
+There is limited evidence that passengers will voluntarily pay a premium to cover the extra cost.
+In the long term, advances in technology may create opportunities to use synthetic fuels such as e-kerosene, but further research and development is required.
+Shipping Shipping represents about 6 mb/d of oil demand.
+About 5% of shipping gross tonnage in operation today is fuelled by LNG, which can reduce emissions by up to 23% compared with conventional fuels.
+Of the new ships on order, about 25% of gross tonnage is being designed for LNG.
+A significant number of the ships in operation today already have dual fuel capabilities, giving them the flexibility to run on alternatives.
+We believe demand for LNG in shipping will grow, including for liquefied biomethane.
+Fuels such as methanol and ammonia could be options for shipping in the long term, but we see challenges with both of them.
+The energy system: our beliefs continued Shell Energy Transition Strategy 2024 17 Relative cost of transportation fuels, 2023 $/barrel of oil equivalent 0 100 200 300 400 500 600 700 800 900 Gasoline Electricity Diesel Electricity Biodiesel Bunker fuel Bio-LNG E-ammonia Jet fuel Biojet fuel E-kerosene Aviation Marine Commercial road transport [A] Passenger road transport [A] a b d c Fuel taxes Fuel taxes 1st Gen 2nd Generation Fuel taxes Synthetic fuels a Biofuels [B] b Oil products [B] d Electricity [C] c [A] North-west European retail prices.
+[B] Beyond production costs, taxes significantly increase the price customers pay for biodiesel, diesel and gasoline.
+[C] Electricity costs (0.2-0.6 $kWh) adjusted for 2.4 times higher efficiency of electric compared with internal combustion engine vehicles.
+Range shown is home/depot charging to highway fast charging.
+Source: Shell Scenario team interpretation of 2023 market data when Brent crude oil prices averaged $83/barrel.
+Transport sector 16 17 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Residential and commercial buildings represent just under 30% of final energy use.
+This energy is used to heat the buildings and power electrical devices, and around two-thirds of it comes from low-carbon sources.
+The global building stock has become about 75% more efficient in the last 40 years due to improved building standards, better insulation, and more efficient appliances.
+Electrification has helped to decarbonise this sector and we see this continuing, with an increased use of electric heat pumps and cookers, reducing demand for natural gas in homes.
+Supportive policies will be key to continuing this trend.
+Information technology services, including data centres, artificial intelligence and cryptocurrencies, are a rapidly growing part of the building sector.
+We believe global electricity demand in this area could double from 2023 to 2026.
+Power is the most rapidly decarbonising part of the energy system.
+More than 40% of electricity is now generated from renewables and nuclear.
+There has been rapid growth in wind and solar generation in the last 10 years, expanding from 3.5% of total power generation in 2013 to nearly 18% in 2023.
+Around 22% of final energy use was electrified by the end of 2023, up from around 18% in 2010.
+We think this trend is accelerating, aided by the adoption of electric vehicles and heat pumps.
+Electrification of final energy use could reach 30-40% by 2040.
+We expect that wind and solar will continue to dominate power generation growth as governments rightly support their scale-up, which will also require significant expansion of national electricity grids.
+We see natural gas having a continued role in displacing coal in power generation, which helps reduce local air pollution and carbon emissions.
+Natural gas also helps provide the flexibility the power system needs, at a time when renewables are growing rapidly, and its role is especially crucial in managing seasonal fluctuations in supply and demand.
+The energy system: our beliefs continued 18 Shell Energy Transition Strategy 2024 We believe carbon abatement will be an important tool to reach net-zero emissions.
+Once key regulations and standards are in place, a large-scale business for carbon credits could emerge.
+Carbon credits may be used to compensate for emissions in line with the mitigation hierarchy of avoid, reduce and compensate.
+The cost of carbon abatement can be split into three tranches.
+Abatement for less than $100 a tonne of CO2 includes efficiency measures in industry and buildings, changes in agriculture, forestry and other land use practices, and some switching from coal to gas or renewables in power generation.
+The middle tranche of abatement costs between $100 a tonne and $200 a tonne and includes the use of carbon capture and storage (CCS) in power generation and industry.
+The highest abatement costs are at more than $200 a tonne.
+These include parts of the transport and industry sectors, and directly capturing carbon from the atmosphere.
+Carbon removals are likely to become an important way to limit the long-term temperature rise.
+Both of Shell's energy security scenarios envisage the need for multi-billion tonne a year carbon removals, which will need to be financed by emitters purchasing carbon credits.
+Demand for carbon credits in the voluntary carbon market is expected to grow significantly.
+CCS also has the potential to make a meaningful reduction in CO2 emissions.
+While there are only around 50 million tonnes per annum (mpta) of CCS in operation today, there are around 300 mtpa of projects under consideration [A].
+Many net-zero scenarios show the industry growing to more than 1,000 mtpa by the mid-2030s.
+[A] Global CCS Institute, 2023.
+The Global Status of CCS: 2023.
+The energy system: our beliefs continued Shell Energy Transition Strategy 2024 19 Buildings Power Carbon abatement 18 19 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Shell's strategy to 2030 Our strategy transforms Shell into a net-zero emissions business by 2050 by delivering more value with less emissions.
+It supports our purpose – to provide more and cleaner energy solutions.
+Our beliefs inform our strategy.
+While the energy transition will move at different paces in different countries, we expect global growth in demand for oil will slow this decade, and is likely to start declining in the following decade.
+We also expect global demand for LNG will continue to grow at least through the 2030s.
+We believe the world needs a balanced energy transition, one that maintains secure energy supplies, while accelerating the transition to affordable low-carbon solutions.
+Our strategy supports a balanced transition by providing the oil and gas people need today, while helping to build the energy system of the future.
+As we implement our strategy, we are becoming a multi-energy business offering our customers more and cleaner energy solutions.
+We are reducing emissions from our operations, and helping our customers move to cost-competitive and cleaner energy.
+Our energy transition plans cover all our businesses: ￮Integrated Gas - Growing our world-leading LNG business with lower carbon intensity.
+￮Upstream - Cutting emissions from oil and gas production while keeping oil production stable.
+￮Downstream, Renewables and Energy Solutions – Transforming our businesses to offer more low-carbon solutions while reducing sales of oil products.
+20 Shell Energy Transition Strategy 2024 Today, around 70% of our cash flow comes from our Integrated Gas and Upstream businesses, with the remaining 30% generated by our Downstream, Renewables and Energy Solutions businesses.
+The opposite is true for emissions.
+Around 75% of Shell's recorded emissions come from our Downstream, Renewables and Energy Solutions businesses, with the vast majority generated when our customers use our products.
+The remaining emissions are generated within Integrated Gas and Upstream, with a large proportion also coming from when our customers use our products.
+Across all our businesses, more than 90% of our emissions are reported as Scope 3.
+Shell will reduce emissions over time as our product mix evolves to meet changing customer demand.
+We will continue to produce LNG and oil with less emissions, while the mix of our sales will move more towards low-carbon solutions such as biofuels, renewable energy and hydrogen, and away from oil products such as petrol, diesel and jet fuel into the 2030s.
+Shell’s strategy to 2030 continued Shell Energy Transition Strategy 2024 21 Growing our world-leading LNG business with lower carbon intensity Cutting emissions from oil and gas production while keeping oil production stable Transforming our businesses to offer more low-carbon solutions while reducing sales of oil products Differentiated Downstream, Renewables and Energy Solutions Advantaged Upstream Leading Integrated Gas Trading and optimisation capabilities Our energy transition plans cover all our businesses Delivering more value, with less emissions Grow leading LNG position Keep oil production stable ensuring cash ﬂow longevity High-grade portfolio Apply value over volume Pursue selective growth Achieve near-zero methane emissions Eliminate routine ﬂaring Decarbonise our operations Reduce oil product sales Grow low-carbon offerings Help customers decarbonise Decarbonise our operations CFFO Net absolute emissions [A] Trading and optimisation ~70% ~30% ~25% ~75% Differentiated Downstream, Renewables and Energy Solutions Advantaged Upstream Leading Integrated Gas [A] Net absolute emissions cover the Scope 1, 2 and 3 emissions from our energy products; these are calculated by product and allocated to businesses based on final point of sales, so emissions associated with upstream production are largely included under downstream as the point of sale.
+Estimated share of energy sales 2016-2030 [A] % LNG Oil products [B] a b Pipeline gas c Electricity d Biofuels e c d e a b Oil products ~57% LNG ~14% Oil products ~48% LNG ~22% Oil products ~39% LNG ~26% 0 20 40 60 80 100 2030 2023 2016 [A] Share of energy products sold, aggregated on energy basis (lower heating value) in final energy equivalents.
+[B] Oil products includes gas-to-liquids (GTL).
+20 21 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Growing our world-leading LNG business with lower carbon intensity We plan to grow our LNG business by 20-30% by 2030 compared with 2022.
+We are developing new projects with lower carbon intensity by using renewable power and carbon abatement technology in the form of carbon capture and storage.
+Beyond our own production, we will continue to add scale and flexibility to our portfolio by buying LNG from others.
+Our LNG business will remain a key priority for Shell, meeting continued strong demand especially in Asia where we send most of our shipments today.
+As we grow our LNG business we will be targeting opportunities which have an internal rate of return of 11% or higher.
+LNG in the energy transition LNG provides both energy security and flexibility because it can be easily transported to places where it is needed most.
+It continued to play a vital role in providing energy security in Europe in 2023.
+LNG is also a critical fuel in the energy transition.
+It is the lowest-carbon fossil fuel, producing around 50% less carbon emissions than coal when used to generate electricity, according to the International Energy Agency.
+Compared with coal, LNG emits far lower amounts of sulphur dioxide, nitrogen oxide and other compounds that contribute to local air pollution.
+Shell’s strategy to 2030 continued 22 Shell Energy Transition Strategy 2024 There are many opportunities for industries to cut carbon emissions by switching from coal to natural gas and LNG.
+Coal accounts for more than 60% of the energy used across Asia to power heavy industries such as steel.
+LNG is the lowest-carbon marine fuel available at scale today and offers significant greenhouse gas (GHG) emissions reductions compared with conventional fuels.
+LNG also offers a long-term decarbonisation pathway through bio-LNG when the supply is scaled up.
+Shell has developed the world's largest LNG fuelling network of ports and bunker vessels on key trading routes, enabling more customers to choose LNG.
+To deliver the full GHG benefits of LNG, methane emissions must be minimised.
+We are working with partners, industry and universities to develop and implement technologies that reduce methane emissions associated with the use of LNG.
+Reducing methane emissions Methane emissions from natural gas and LNG contribute to global warming.
+Methane is a potent GHG and reducing emissions of methane is considered one of the most effective near-term actions to keep the more ambitious 1.5°C goal of the Paris Agreement within reach.
+As we grow our LNG business, we continue to make the reduction of methane emissions a priority.
+We were one of the first companies to set a target to achieve near-zero methane emissions by 2030 across all our operations.
+Through our more efficient new plants, and projects to reduce methane emissions from existing assets and our shipping fleet, we aim to deliver LNG with some of the lowest methane emissions in our industry.
+We are working with others to increase transparency on methane emissions, improve accuracy of reporting and drive reductions in methane emissions across our industry.
+We have been enhancing the accuracy of our reported emissions through the implementation of the United Nations Environment Programme (UNEP) Oil and Gas Methane Partnership (OGMP) 2.0 reporting framework in our operated and non-operated assets.
+In 2023, Shell received UNEP's recognition for being on track to achieve OGMP 2.0's gold standard of reporting in its operated assets by the end of 2023 and non-operated assets by 2025.
+This would be the third consecutive year that Shell has achieved this highest standard.
+Working with others Shell is a signatory of the Oil and Gas Decarbonisation Charter launched at COP28, which focuses on driving down Scope 1 and 2, flaring and methane emissions.
+We led the development of the Methane Guiding Principles Coalition which brings together industry and civil society to drive reductions in methane emissions from the natural gas supply chain.
+Signatories of the Methane Guiding Principles are engaging with governments and industry in 20 countries to inform policies and regulations and disseminate best practice.
+Shell is a contributor to the OGMP 2.0 Methane Reporting Framework which is the only measurement based international framework for methane emissions in the oil and gas sector.
+We are also a member of the Oil & Gas Climate Initiative which has launched the Aiming for Zero Methane Emissions by 2030 initiative.
+Shell’s strategy to 2030 continued Shell Energy Transition Strategy 2024 23 Leading Integrated Gas Market outlook of LNG demand by region Million tonnes per annum a b c d e fg China a South Asia b South East Asia c Europe e Rest of world f Middle East and North Africa g 0 100 200 300 400 500 600 700 2040 2022 Japan, South Korea and Taiwan d ~60% LNG demand Source: Shell internal analysis.
+Air pollution from gas-fired power plants versus coal-fired power plants kilogramme per megawatt hour gross 0.67 0.01 0.02 0.00 0.70 0.09 Sulphur dioxide Nitrogen dioxide Particulate matter 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 Coal emissions (supercritical pulverised boiler) Natural gas emissions (combined cycle turbine) Source: US Department of Energy National Energy Technology Laboratory 2015.
+External analysis forecasts renewables, supported by gas, will reduce coal’s role in South Asia Capacity 1000 GW Generation share % Coal a b e f c d Gas Nuclear Renewables Hydro Other % coal share % gas share Source: Shell interpretation of Wood Mackenzie data.
+0 10 20 30 40 50 60 70 0 200 400 600 800 1,000 1,200 1,400 2022 2030 2035 2040 22 23 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Role of LNG in the energy transition Supporting renewable energy: Using LNG for power generation offers flexibility and the ability to quickly ramp up or down.
+LNG will be essential for maintaining grid stability as the share of renewables increases.
+Reducing air pollution: Gas-fired power generation can help significantly reduce air pollution when compared to the emissions released by coal-fired plants.
+Industrial and high-temperature applications: Gas and LNG are important for sectors where electrification is challenging, such as high-temperature industrial processes.
+They provide the necessary energy intensity and reliability that renewables currently cannot match, helping industries like cement and steel on their decarbonisation journeys.
+Energy security: While displacement of coal by renewables is expected to be dominant in the power sector, gas and LNG will also have an important role.
+They will continue to provide the flexibility electricity grids will need, and energy security in the coming decades in developed countries.
+Climate policy and emissions trading: In regions with stringent climate policies and emissions trading systems, such as the European Union, gas and LNG can help meet emissions targets by replacing more carbon-intensive fuels.
+Lower-carbon fuel for transport: In some of the slowerto-abate transport sectors, such as long-distance commercial road transport and marine, LNG can help with their decarbonisation journeys.
+It is a solution that is both available and more affordable today when compared with other low-carbon products, and reduces emissions when compared with oil-based products.
+Shell’s strategy to 2030 continued 24 Shell Energy Transition Strategy 2024 Cutting emissions from oil and gas production while keeping oil production stable We continue to focus on more value and less emissions, and expect that our oil production will remain stable through to 2030.
+The oil we are producing will increasingly come from our world-class deep-water business.
+Through innovative designs, our deep-water platforms are producing higher-margin and lower-carbon barrels.
+Maintaining oil production this decade Our oil production peaked in 2019, and by the end of 2023 had fallen by around 20%.
+We believe that continued investment will be needed to maintain oil supplies as existing fields naturally decline faster than reductions in demand.
+To keep production of crude oil and natural gas liquids stable to 2030 at 1.4 million barrels per day, we are focusing exploration on our existing positions and basins where hydrocarbons have been discovered already.
+This includes our high-margin deep-water positions.
+Across our upstream portfolio we are targeting an internal rate of return of 15% or higher.
+We do not anticipate any new frontier exploration entries after 2025 [A].
+From the beginning of 2023 until the end of 2025, we will have started projects with a total peak production of more than 500,000 barrels of oil equivalent a day.
+Around 40% of these projects are in deep water.
+They include the US Gulf of Mexico, where we are the leading operator and have one of the lowest GHG intensities in the world for oil production.
+As we continue to meet the world's demand, we will build on the strengths of our current portfolio to continue to deliver lower-carbon barrels with higher margins.
+[A] A frontier entry refers to Shell participating in new exploration activities (seismic activities, exploratory drilling) outside countries where hydrocarbons have been discovered already (by Shell or other companies).
+Shell’s strategy to 2030 continued Shell Energy Transition Strategy 2024 25 Market view of India gas demand by sector Billion cubic metres Transport Industry a b Power c Residential and Commercial d c d a b 0 30 60 90 120 2040 2030 2023 Source: Shell interpretation of Kpler, S&P Global Commodity Insights and FGE data, Wood Mackenzie and FGE data.
+Source: U.S. Energy Information Administration.
+Gas displacement of coal in US power generation is helping to reduce CO₂ emissions a b c 0 500 1000 1500 2000 2500 d 2008 2022 2020 2018 2016 2014 2012 2010 3000 2500 2000 1500 1000 500 0 Generation by primary energy source (TWh/yr) CO2 Emissions (Mtpa) Gas Coal a b Solar and wind c CO2 emissions d Advantaged Upstream More value: Shell deep-water unit CFFO excluding working capital compared with peers $ per barrel of oil equivalent Less emissions: intensity of Shell deep-water assets compared with peers [B] tCO2e/kboe c b a 0 10 20 30 40 50 Shell deep water a Top 10% d Average Emissions b Bottom 10% c d 17 18 19 20 21 22 23 24 25 26 27 28 29 30 a b 10 20 30 40 50 60 Peer range [A] b 2019 2020 2021 2022 Shell deep water a [A] Peer range comprises BP, TotalEnergies, ExxonMobil, Chevron and represents all Integrated Gas and Upstream related activities.
+Based on external reporting and Shell internal analysis including peer working capital assumptions.
+[B] Shell internal analysis of Woodmac Lens data.
+Shell deep water includes both deep-water and ultra-deep-water positions.
+Peers are the majors, large- and mid-cap companies and represent all Integrated Gas and Upstream related activities.
+24 25 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Decarbonising our operations As a responsible energy producer, we are implementing carbon management plans and reducing carbon emissions from our assets.
+We are looking at ways to electrify our offshore oil facilities, and using wind and solar power to reduce operational emissions.
+We see carbon capture and storage (CCS) as a core technology to further capture emissions from our facilities, reusing our own depleted oil and gas fields where possible.
+We are working towards our target to eliminate routine flaring from our upstream operations by 2025, five years ahead of the World Bank's initiative [A].
+Routine flaring burns gas that is not used or reinjected into wells, which is inefficient and contributes to climate change.
+[A] Subject to completion of the sale of SPDC Shell’s strategy to 2030 continued 26 Shell Energy Transition Strategy 2024 Transforming our businesses to offer more low-carbon solutions while reducing sales of oil products We are reshaping our Downstream, Renewables and Energy Solutions businesses with a more focused geographic portfolio of products to deliver more value with less emissions.
+We aim to lead in the energy transition in areas where we have competitive strengths, see strong customer demand, and identify clear regulatory support from governments.
+We are starting from a place of strength.
+Our global customer reach, and our supply and trading capabilities in low-carbon products, mean we are well placed to profitably deliver the low-carbon solutions people and businesses need.
+We are also able to identify changes in demand for products so that we can respond quickly.
+In the transport sector, for example, we see attractive growth opportunities in charging for electric vehicles and in biofuels for cars, trucks, planes and ships.
+We are strengthening these businesses to support our customers as they decarbonise and move from oil products to lower-carbon alternatives.
+As the energy transition evolves, we expect that growth in demand for oil products for transport will slow, and then decline.
+We are transforming our refinery portfolio and targeting value over volume in our marketing business.
+As a result, we will sell less oil products and more low-carbon products.
+Our strategy is to: ￮Repurpose our remaining integrated refineries to focus on four regional energy and chemicals parks, providing cleaner molecules such as biofuels and hydrogen to help our customers decarbonise.
+￮Transform our marketing business by gradually reducing exposure to oil products used for transport, while changing our product mix by investing in areas such as electric vehicle charging, biofuels, and integrated power.
+￮Use technology and innovation to develop the business models and fuels of the future.
+The strength of our trading capabilities, coupled with our own production, will help us deliver affordable and low-carbon solutions for our customers.
+Shell’s strategy to 2030 continued Shell Energy Transition Strategy 2024 27 Demonstrating progress on eliminating routine flaring million tonnes of hydrocarbons flared 2023 2022 2021 2016 -91% 1.1 0.2 0.1 0.1 Differentiated Downstream, Renewables and Energy Solutions Focused on developing low-carbon solutions for today, tomorrow and the future + + Repurposing energy and chemical parks Mobility and lubricant offerings Electric vehicle charging Low-carbon fuels Hydrogen Carbon removal and storage Delivering today Building for tomorrow (2025+) Preparing for the future (2030+) Integrated Power Trading and optimisation Supported and enabled by 26 27 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 We will continue to grow our trading business in low-carbon molecules, carbon credits and power as the energy transition accelerates.
+Delivering today Today, we are repurposing our remaining integrated refineries to focus on four regional energy and chemicals parks, which we are transforming into the low-carbon hubs of the future.
+As part of this process, we have completed the strategic review of our Energy and Chemicals Park Singapore with divestment as our preferred option.
+We are also high-grading our European energy and chemicals parks.
+This means retiring certain units and continuing with some divestments we have already announced.
+We are looking to strengthen our global retail and lubricants marketing businesses as the energy transition evolves, meeting the changing needs of our customers, and making value-driven choices region by region.
+That means growing our portfolio of low-carbon fuels and charging for electric vehicles in markets that meet our investment criteria such as China, Europe and the USA, and reducing our presence in others.
+As an example, we have signed an agreement to sell our shareholding in Shell Pakistan.
+Oil for lubricants and chemicals Most of the oil products sold by Shell are used in the transport sector.
+We estimate that 15-20% of the total oil products we sell are used for non-energy products such as lubricants and chemical products.
+Chemicals are used in many parts of modern life, from cosmetics to household goods.
+Lubricants are needed for virtually every machine and engine in operation.
+As these products are not combusted, their use does not cause Scope 3, Category 11 emissions.
+In 2023, Shell invested $2.3 billion in producing non-energy products including lubricants, chemicals, convenience retailing, agriculture and forestry, construction and road.
+We are upgrading our retail network, with expanded electric vehicle charging and convenience offers, in response to changing customer needs.
+In total, we plan to divest around 500 Shell-owned sites (including joint ventures) a year in 2024 and 2025.
+We are growing our premium lubricants portfolio to supply key energy transition sectors such as transformer oils used for offshore wind parks, and cooling fluids to support the development of electric vehicle car batteries.
+Supply, logistics and trading play a crucial role in ensuring we meet our customers' needs and generate strong returns.
+Our world-leading trading and optimisation business generates additional value by connecting supply and demand, for both conventional and low-carbon fuels across our global businesses.
+We will continue to grow our trading business in low-carbon molecules, carbon credits and power as the energy transition accelerates.
+Building for tomorrow (2025+) To build the businesses of tomorrow, we continue to strengthen our offer of low-carbon solutions where we see a significant increase in customer demand and supportive government policies.
+Between now and 2030, we are focusing on three areas where we have the potential to positively impact the energy transition by reducing the cost for our customers – electric vehicle charging, biofuels and integrated power.
+Shell’s strategy to 2030 continued 28 Shell Energy Transition Strategy 2024 We are growing our electric vehicle charging business to support customers who choose to change from a petrol or diesel vehicle to an electric one.
+We are focusing on offering our customers choices where we see increasing demand, such as in the fast-growing electric mobility markets of China and Europe.
+We aim to increase the number of public charge points we operate to around 200,000 by 2030, from around 54,000 today.
+We are focusing on public charging, rather than home charging, because we believe it will be needed most by our customers.
+We have a major competitive advantage in terms of locations, as our global network of service stations is one of the largest in the world.
+We have other competitive advantages, such as our convenience retail offering which allows us to offer our customers coffee, food and other convenience items as they charge their cars.
+As we grow our business offering charging for electric vehicles, we expect an internal rate of return of 12% or higher.
+We are expanding our world-leading biofuels business to meet growing customer demand and where we can use the strength of our supply and trading positions.
+Aviation and shipping remain some of the slower-to-decarbonise sectors and will require low-carbon molecular solutions such as biofuels and synthetic hydrogen-based fuels at scale in the future.
+Shell is already one of the world's largest energy traders and blenders of biofuels selling significantly more low-carbon fuels than we produce.
+We expect to continue to grow both our own production and sales of biofuels in the coming years.
+We are focusing on producing premium biofuels such as sustainable aviation fuel, renewable diesel and renewable natural gas (RNG).
+These fuels will help to reduce emissions in commercial road transport.
+To support our production of biofuels, we are investing in new feedstocks through investments and partnerships while using the strength of our trading business to expand sales beyond our production volumes.
+Through our Raízen joint venture in Brazil we are already the largest producer of second-generation ethanol and the leading sugar-cane ethanol producer globally.
+To support growing demand for biofuels this decade, we are developing more second-generation technologies.
+We are also developing technologies and feedstocks that aim to allow continued and sustainable growth in biofuels while minimising impacts on the environment and food supplies.
+Following the 2023 acquisition of Nature Energy, one of the largest producers of RNG in Europe, we have a strong position in RNG.
+We are actively looking for more opportunities to meet emerging demand for RNG, especially in north-west Europe.
+We expect to generate an internal rate of return of more than 12% from our new investments in lowcarbon fuels.
+Shell’s strategy to 2030 continued Shell Energy Transition Strategy 2024 29 Electric vehicle charging Biofuels 0 30 60 90 120 2030 2025 2023 2022 2021 2020 ~200 ~70 54 27 7 Americas a Other e Asia d Europe b China c Scaling our network of public EV charging points Thousands 28 29 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 We will continue to grow our integrated power business with selective investments in renewable power generation.
+We will also use the strength of our trading and optimisation capabilities to meet the growing need for flexible power storage solutions such as batteries.
+We already have a significant presence in battery and storage through both our ventures programme and investments in research and development.
+We are making disciplined choices to create value from our power portfolio, stepping back from activities that do not fit our strategy or that do not generate enough returns.
+We have exited renewable projects in Ireland and France, and sold our home energy businesses in the UK and Germany.
+We are focusing on selling power, including renewable power, to business customers.
+We are also using renewable power to decarbonise our own operations.
+Over time, we will also use our renewable power capacity to produce low-carbon molecules such as hydrogen.
+We expect returns from power generation to be in line with the market, at around 6-8% ungeared, with opportunities to create higher returns from areas such as trading and optimisation.
+Preparing for the future (2030+) This decade, we are also focusing on developing integrated energy hubs, select carbon capture and removal businesses, such as CCS, and fuels of the future, such as hydrogen, to prepare to meet our customers' needs after 2030.
+We plan to create integrated energy hubs around our energy and chemicals parks in North America and north-west Europe, and other locations where we see significant potential for high growth in demand in the future.
+These include Australia, Brazil, China and India.
+We will be focusing our investments in these hubs as we integrate our businesses and trading capabilities to deliver affordable low-cost solutions to our customers.
+We are researching the development of fuels such as liquefied synthetic gas (LSG), which is produced when renewable hydrogen is combined with captured carbon dioxide (CO2) to create natural gas, which is then liquefied.
+This low-carbon gas can be directly used in existing gas networks and infrastructure, including LNG plants.
+Shell’s strategy to 2030 continued 30 Shell Energy Transition Strategy 2024 We are developing technologies related to carbon capture and storage (CCS) and carbon removals, which are necessary to reduce emissions where there are few low-carbon alternatives.
+For the rest of this decade, we will direct most of our investments in CCS towards decarbonising our own operations.
+We are also looking to turn this into a profitable business for Shell by helping other companies decarbonise their operations in the future.
+However, in many countries CCS still lacks a clear business model.
+To address this challenge, Shell advocates policy mechanisms to enable CCS, and supports industry partnerships dedicated to the growth of commercially viable CCS projects.
+Direct air capture (DAC) technology can also play a key role in the energy transition.
+We are aiming to make it more affordable and scalable through several pilot projects.
+DAC extracts CO2 from the air to provide a carbon feedstock for synthetic products, or when coupled with transport and storage, to enable it to be stored underground.
+In combination with carbon capture and removal technologies, a functioning global carbon market will be a critical enabler of an accelerated energy transition.
+We are actively participating in carbon markets, and building and managing a diverse portfolio of high-quality carbon credits, including nature-based and non-nature based solutions, to help our customers decarbonise.
+Shell’s strategy to 2030 continued Shell Energy Transition Strategy 2024 31 Integrated power Flexible power generation capacity demand is projected to grow significantly Gas [A] a Other d Hydrogen b Batteries c 2050 2045 2040 2035 2030 2025 a b c d [A] Gas includes both open-cycle and combined-cycle gas turbine power generation.
+Source: McKinsey Energy Solutions Global Energy Perspective 2023.
+Carbon capture and removal 30 31 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Shell’s strategy to 2030 continued 32 Shell Energy Transition Strategy 2024 More value with less emissions: our actions Putting our strategy into action across all our businesses Our beliefs about the energy transition inform our strategy to deliver more value with less emissions.
+Our strategy is based on the areas where Shell has unique competitive strengths, allowing us to be a successful business through the energy transition.
+Growing our world-leading LNG business with lower carbon intensity As we grow our world-leading liquefied natural gas (LNG) business by 20-30% by 2030, we will continue to reduce the carbon intensity of our operations.
+Our LNG joint venture in Canada (Shell interest 40%, non-operated) will use natural gas and renewable electricity to reduce emissions from the plant by more than one-third compared with the world’s best performing facilities when it starts up.
+The commissioning process is expected to begin in 2024 and will continue into 2025.
+In Qatar, Shell is a partner in the North Field Expansion, the largest LNG project in the world.
+It comprises the North Field East (Shell interest 6.25%) and North Field South (Shell interest 9.375%) projects.
+By using carbon capture and storage, these projects will help provide LNG with a lower-carbon footprint to our customers.
+Shell's share of these projects will be around 3.5 million tonnes per annum (mtpa) of LNG when production starts later this decade.
+Shell is working with shipping companies to help decarbonise the marine sector.
+Parts of the marine sector uses LNG to power some of its ships, with the aim of switching to liquefied biomethane or liquefied e-methane, a hydrogen-based fuel, in the longer term.
+Artificial intelligence for LNG Artificial intelligence (AI) is helping us reduce carbon emissions at LNG plants by using information from sensors to calculate the most efficient settings for equipment.
+At one LNG facility, we estimate these technology developments are reducing carbon dioxide emissions by around 340,000 tonnes a year.
+We have used these automation and optimisation technologies to reduce emissions at multiple LNG facilities.
+Shell Energy Transition Strategy 2024 33 Our transition plans cover all our businesses Focused decarbonisation pathways Leading to our strategic decarbonisation areas for this decade Enabled by our strengths and competitive advantages Differentiated Downstream, Renewables and Energy Solutions Advantaged Upstream Leading Integrated Gas We have identified pathways to net zero for our two biggest customer sectors, transport and industry.
+These two sectors make up more than 70% of total global final energy demand and more than 55% of global carbon emissions today.
+Our pathways are based on where we believe we have the competitive advantages to provide our customers with the affordable products they need through the transition.
+Trading capabilities and infrastructure networks Technology and innovation Policy and advocacy Transport Carbon abatement and removal Industry and services Aviation Marine 2023-2030 2030-2040 2040-2050+ Note: The order from left to right and the size of the circles in the graphic above indicate their likely relative prominence within that section of the pathway.
+Significant uncertainty remains on the shape of these future pathways.
++ OIL PRODUCTS OIL PRODUCTS BIOFUEL SOLUTIONS BIOFUEL SOLUTIONS OIL PRODUCTS SYNTHETIC FUELS LIQUEFIED NATURAL GAS LIQUEFIED NATURAL GAS LIQUEFIED NATURAL GAS CARBON CAPTURE & STORAGE CARBON CAPTURE & STORAGE CARBON CAPTURE & STORAGE NATURE BASED SOLUTIONS NATURE BASED SOLUTIONS DIRECT AIR CAPTURE RENEWABLE NATURAL GAS RENEWABLE NATURAL GAS LIQUEFIED NATURAL GAS HYDROGEN AND DERIVATIVES SYNTHETIC FUELS BIOFUEL SOLUTIONS GREEN HYDROGEN BATTERIES & FLEX STORAGE BLUE HYDROGEN BLUE HYDROGEN DIRECT ELECTRIFICATION OIL PRODUCTS Biofuels infrastructure Integrated power positions CO₂ capture and removal value chains Electric vehicle charging Passenger road transport Commercial road transport OIL PRODUCTS BIOFUEL SOLUTIONS BIOFUEL SOLUTIONS BIOFUEL SOLUTIONS ELECTRIC CHARGING ELECTRIC CHARGING ELECTRIC CHARGING GREEN HYDROGEN ELECTRIC CHARGING ELECTRIC CHARGING BIOFUEL SOLUTIONS OIL PRODUCTS OIL PRODUCTS OIL PRODUCTS + LIQUEFIED NATURAL GAS CARBON CAPTURE & STORAGE HYDROGEN AND DERIVATIVES OIL PRODUCTS BIOFUEL SOLUTIONS 32 33 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Reducing methane emissions We continue to enhance the accuracy of our reported methane emissions and reduce emission sources across Shell-operated assets.
+By the end of 2023, around 80% of fugitive-emission sources at our operated oil, gas and LNG production facilities used leak detection and repair programmes to tackle leaks and monitor equipment.
+Shell works with others to share our learnings and drive industry-wide action on methane operations.
+We are a founding signatory of the Oil and Gas Methane Partnership (OGMP) 2.0 reporting framework and have been implementing the framework in our operated and nonoperated assets, engaging with our non-operated jointventure partners to achieve improved accuracy or reporting beyond our operations.
+We test and use latest technologies to monitor our emissions.
+In 2023, we successfully completed a pilot with GHGSat, a pioneer in methane detection, to test satellite capabilities for monitoring methane emissions from offshore facilities.
+The aim is to use this technology more widely in the future.
+We have also been using drones and satellites to monitor the methane emitted during the production and processing of natural gas, and the export of LNG.
+This has helped us reduce wells maintenance periods and carefully control gas dryness during processing to limit venting.
+We have reduced vented methane emissions at our QGC business in Queensland by more than 2,800 tonnes since 2017.
+Cutting emissions from oil and gas production in our Upstream business In our Upstream operations, we are cutting emissions from oil and gas production to meet our targets, which are some of the most ambitious in our industry.
+Reducing operational emissions is a key factor in the development of new projects.
+Our Vito deep-water platform (Shell interest 63.1%) in the Gulf of Mexico is one of our newest platforms and has a peak production of 100,000 barrels of oil equivalent a day.
+The platform is expected to reduce carbon dioxide (CO2) emissions by around 80% over its operating life, compared with its original design.
+In addition to the reduced emissions, Vito also cost 70% less than the anticipated cost of the original design, an example of creating more value with less emissions.
+Our actions continued 34 Shell Energy Transition Strategy 2024 Vito's design is being replicated in two other deep-water platforms in the Gulf of Mexico: Whale and Sparta.
+The Shelloperated Whale project (Shell interest 60%) is expected to start production towards the end of 2024 and is expected to operate with less emissions than Vito.
+A final investment decision for the Sparta project (Shell interest 51%) was announced in December 2023, with production due to begin in 2028.
+Shell will use the experience of the Vito and Whale projects to enhance the design and energy efficiency capabilities of Sparta.
+We are reducing the carbon intensity of new projects elsewhere.
+Timi in Malaysia (Shell interest 75%) is our first wellhead platform to be powered by a solar and wind hybrid power system.
+This unmanned platform, which delivered its first gas in August 2023, is around 60% lighter than a conventional tender-assisted drilling wellhead platform, helping to reduce the emissions needed to develop the project.
+Reducing routine flaring We are working to reduce routine flaring, which is inefficient and contributes to climate change.
+Our target is to eliminate routine flaring from our upstream operations by 2025 [A].
+This commitment challenges us to move faster than the World Bank's Zero Routine Flaring by 2030 initiative.
+In 2023, around 10% of our greenhouse gas emissions from flaring occurred at facilities where there was no infrastructure to capture the gas, which is similar to the 2022 figure.
+Overall flaring decreased to 2.8 million tonnes of carbon dioxide equivalent (CO2e) in 2023 from 3 million tonnes of CO2e in 2022.
+[A] Subject to the completion of the sale of SPDC.
+In Norway, Shell is the operator of the Ormen Lange gas field (Shell interest 17.8%).
+This is an underwater facility connected to Nyhamna, an onshore processing and export plant.
+The Ormen Lange is powered by renewable hydroelectricity provided by the Norwegian grid.
+This same source of renewable hydroelectricity provides around 93% of the energy needed for Nyhamna.
+We are installing further underwater compression units to increase gas recovery from the Ormen Lange field, which will also be powered by the same renewable hydroelectricity.
+Within our Upstream portfolio we have made divestments, including the sale of our interest in the Malampaya gas field in the Philippines in 2022 and our Permian business in the USA in 2021.
+These sales were strategic moves, which also resulted in reducing our Scope 1 and 2 emissions.
+Our actions continued Shell Energy Transition Strategy 2024 35 Consistently ahead of the industry leading average [A] Methane emissions intensity % 0.0 0.1 0.2 0.3 0.4 2023 2022 2021 2020 2019 2018 Year Industry leading average a a Shell [B] b b [A] Aggregated average performance of Oil and Gas Climate initiative companies.
+[B] Methane emissions intensity from all oil and gas assets for which Shell is the operator that market their gas (including LNG and GTL assets) defined as the total volume of methane emissions in normal cubic meter (Nm3) per total volume of gas available for sale in Nm3.
+Photograph taken before operations started 34 35 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Downstream, Renewables and Energy Solutions businesses: offering more low-carbon solutions We are reducing emissions associated with our refineries by transforming them into energy and chemicals parks.
+This transformation is under way at Norco in the USA, Scotford in Canada, Pernis in the Netherlands and Rheinland in Germany.
+In January 2024, we took a final investment decision to convert the hydrocracker of the Wesseling site at the Energy and Chemicals Park Rheinland into a production unit for Group III base oils to produce high-quality engine and transmission oils.
+The repurposing of this refinery is a significant step towards serving our growing lubricant customer base with premium base oils, delivering more value with less emissions.
+The Wesseling site will stop processing crude oil into petrol, jet fuel and diesel by 2025.
+When it starts operations in the second half of this decade, the production unit will be highly electrified and is expected to cut Shell's Scope 1 and 2 emissions by around 620,000 tonnes a year.
+This is the latest development in the transformation of Rheinland, which includes investments in a 10-megawatt electrolyser to produce renewable hydrogen and a biomethane liquefaction plant.
+Biofuels We are developing biofuels such as sustainable aviation fuel, renewable diesel and renewable natural gas (RNG) to help our customers decarbonise without having to change their cars, trucks, planes or ships.
+Shell is one of the world's largest traders and blenders of biofuels, meeting around 6% of global demand.
+In 2023, around 9.7 billion litres of biofuels went into our petrol and diesel worldwide, compared with 9.5 billion litres in 2022.
+Raízen, our joint venture in Brazil (Shell interest 44%), is one of the world's biggest bioethanol producers, delivering some of the lowest carbon intensity biofuels available today.
+The majority of the ethanol and cellulosic ethanol produced by Raízen is sold unblended to international customers in markets such as Europe, Japan and the USA.
+It is used in the transport, pharmaceutical and manufacturing industries, among others.
+Raízen produced around 3.12 billion litres of ethanol in 2023, up from around 3 billion in 2022.
+Raízen's Costa Pinto plant produced 30 million litres of second-generation ethanol made from inedible agricultural waste in 2023, up from 26 million in 2022.
+In 2023, the joint venture also commissioned the first of eight advanced biofuel plants which it aims to build in Brazil.
+In February 2023, we completed the nearly $2 billion acquisition of Nature Energy, making us one of the largest producers of renewable natural gas (RNG) in Europe.
+RNG, produced by turning organic material such as agricultural waste into renewable energy, is a low-carbon fuel that can power trucks and ships.
+With our partners, Nature Energy owns and operates 13 biogas plants in Denmark and one plant in the Netherlands.
+The biofuels plant at the Shell Energy and Chemicals Park Rotterdam in the Netherlands is expected to be one of Europe's biggest once operational in the latter half of the decade.
+It is expected to be capable of producing 820,000 tonnes of biofuels from waste each year.
+This facility will have the capacity to produce enough renewable diesel to avoid 2.8 million tonnes of carbon emissions a year.
+Sustainable aviation fuel (SAF) could account for more than half of the plant's biofuels capacity, with the rest being renewable diesel.
+Shell can adjust this mix to meet changing customer demand.
+SAF currently accounts for less than 0.1% of global aviation fuel.
+Shell's investment will help increase SAF production, which is vital if aviation is to cut carbon emissions.
+Our actions continued 36 Shell Energy Transition Strategy 2024 To support our biofuel production capacity, we are also investing in new feedstocks for biofuels.
+In 2022, Shell acquired waste recycling company EcoOils which produces advanced biofuels feedstock at its facilities in Malaysia and Indonesia.
+This will enable the production and supply of lowcarbon fuels like SAF to customers.
+We also invested in agroforestry company Investancia Group (Shell interest 30%) in 2022.
+Together, Shell and Investancia are using degraded cattle land in Paraguay to plant pongamia oil trees to grow sustainable feedstock to make biofuels.
+Lower-carbon race fuel for Scuderia Ferrari Shell has developed a race fuel containing 10% of second-generation bioethanol for Scuderia Ferrari to use in its Formula 1 racing cars.
+We use digital simulation to predict the combustion behaviour and performance of each fuel blend to significantly reduce the development time, and maximise performance and efficiency.
+The team is now working on a 100% sustainable race fuel, which includes several different sustainable fuel components, to meet requirements for the 2026 Formula 1 season.
+Electric vehicle charging Shell is well positioned to become a profitable leader in public charging for electric vehicles, meeting the growing demand from drivers who need to charge on the go.
+At the end of 2023, we had around 54,000 public charge points for electric vehicles at Shell forecourts, on streets and at locations such as supermarkets.
+This was up from 27,000 in 2022.
+We expect to have around 70,000 public charge points by 2025 and around 200,000 by 2030.
+Shell Recharge, our public charging network, currently operates in around 33 countries.
+We opened our largest electric vehicle charging station in the world in China, the world's largest market for EVs, in September 2023.
+The 258 fast-charging points at the Shell Recharge Shenzhen Airport EV Station serve thousands of drivers every day.
+The charging points are partially powered by rooftop solar panels with the capacity to generate 300,000 kilowatt hours of renewable electricity a year.
+The charging station, a joint venture between Shell and Chinese electric car manufacture BYD (Shell share 80%), has a utilisation rate of two-and-a-half-times the local average.
+China is one of the most important growth markets for our Mobility business.
+In March 2023, we completed the acquisition of Volta Inc. in the USA.
+We now operate one of the largest public electric vehicle charging networks in the country, with more than 3,000 charge points across 31 states and more than 3,400 additional charge points in development.
+Our actions continued Shell Energy Transition Strategy 2024 37 36 37 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Integrated power positions Our power business brings together our expertise in generation, trading and marketing.
+We are making selective investments in renewable generation, batteries and other gridflexibility technologies, to provide low-carbon solutions to our commercial and industrial customers, and to decarbonise our own operations.
+We aim to profitably deliver more renewable power solutions, by growing our portfolio in select markets such as Australia, Europe, India and the USA.
+At the end of 2023, we had around 2.5 gigawatts (GW) of renewable capacity in operation, 4.1 GW under development and around 40 GW of potential capacity in our pipeline globally, including utility-scale solar and integrated wind-tohydrogen projects.
+In 2023, Shell sold around 279 terawatthours (TWh) of electricity, which is more than enough to meet the annual needs of Australia.
+In the USA, the solar, wind and battery company Savion, which we acquired in 2021, has started to develop new solar plants.
+Once operational, they will generate around 500 megawatts (MW) of renewable power.
+We are also investing in growing our renewable energy capacity elsewhere.
+In 2022, we acquired Sprng Energy in India and in 2023 we acquired Isemaren in Spain.
+We are also developing our own positions, such as our Pottendijk and Koegorspolder solar farms in the Netherlands.
+In 2023 in the Netherlands, the Hollandse Kust Noord offshore wind farm (Shell interest 79.9%), which has a generating capacity of 759 MW, became operational.
+Hollandse Kust Noord will eventually produce the equivalent of almost 3% of electricity demand in the Netherlands.
+Ecowende (Shell interest 60%), our joint venture with Eneco, announced plans to develop a 760 MW wind farm nearby called Hollandse Kust West.
+We are also developing utility-scale battery storage systems in select markets.
+In March 2023, we entered into a partnership to deliver a battery storage system in Australia.
+Shell will have access to 100% of the battery system's offtake over a 20-year period.
+Completion of the project is expected in late 2024.
+Hydrogen We continue to invest in the production of hydrogen, looking for ways to expand the technology and reduce costs so that it becomes an affordable and available low-carbon option for the future.
+To deliver the full low-carbon potential of hydrogen, we continue to learn about where emissions, including methane, can occur during production and use.
+We are also identifying opportunities to address them in collaboration with others.
+We see a role for hydrogen as a feedstock, for example to make synthetic fuels, and as an energy carrier across industry and transport.
+At the end of 2022, we started to build Holland Hydrogen 1 in the Netherlands, which will be one of the largest renewable hydrogen plants in Europe when it becomes operational in the second half of the decade.
+The 200 MW electrolyser will be powered by renewable energy from the Hollandse Kust (noord) offshore wind farm.
+Holland Hydrogen 1 will help to decarbonise the production of our petrol, diesel and aviation fuel at the Shell Energy and Chemicals Park Rotterdam.
+In the longer term, the plant could also supply hydrogen to help reduce emissions in transport and industry.
+In Oman, we acquired a 35% interest in Green Energy Oman, which will produce hydrogen from seawater, powered by up to 25 GW of solar and wind energy.
+Shell is the lead operating partner.
+The project is expected to be operational by the early part of the next decade and aims to produce around 1.8 million tonnes of hydrogen a year at full capacity.
+As a founding member of the H2 Accelerate consortium, Shell continues to work with partners to enable the use of hydrogen to decarbonise long-haul road transport across Europe.
+The consortium is trying to develop a programme to make hydrogen a commercially viable fuel for the trucking sector.
+Our actions continued 38 Shell Energy Transition Strategy 2024 Carbon capture and storage (CCS) Shell continues to work with governments, customers and partners to unlock the potential of CCS to reduce emissions where there are few low-carbon alternatives.
+CCS technologies are necessary to meet the temperature goals of the Paris Agreement.
+However, in many countries CCS lacks a clear business model.
+To address this challenge, Shell advocates for policy mechanisms and supports industry partnerships dedicated to the growth of commercially viable CCS projects.
+By the end of 2023, the Quest CCS facility at the Scotford upgrader in Canada (Shell interest 10%) had captured and safely stored more than 8.8 million tonnes of CO2 since it began operating in 2015.
+We are exploring the possibility of increasing CCS capacity at Scotford, initially by 750,000 tonnes a year [A].
+Our Northern Lights CCS project (Shell interest 33.3%) in Norway signed contracts in 2023 to transport and safely store 1.2 million tonnes of CO2 a year.
+The CO2 will be shipped from two of Ørsted's biomass power plants in Denmark and a Yara ammonia and fertiliser plant in the Netherlands.
+It will then be stored 2,600 metres below the seabed in the North Sea.
+In Australia, the Gorgon CCS project (Shell interest 25%, operated by Chevron) reported it had stored more than 9 million tonnes of CO2 equivalent by the end of 2023.
+In addition to these significant emission reductions, Chevron has confirmed it had acquired and surrendered carbon credits to address historical injection shortfalls.
+The project started operating in 2019 and is the largest CCS operation in the world.
+Construction of Porthos, Europe's largest CCS facility, will begin at the port of Rotterdam in 2024.
+Shell will be the biggest customer, supplying 1 million tonnes of CO2 a year.
+The captured CO2 will be transported to empty gas fields under the North Sea around 20 kilometres off the Dutch coast.
+This will reduce the Netherlands' annual CO2 emissions by around 2% for 15 years from 2026.
+[A] Corrected on March 20, 2024 due to an editorial error.
+In 2023, Shell and Esso were jointly awarded three licences in the UK's first-ever carbon storage licensing round.
+The joint venture (Shell interest 50%) will evaluate three sites in the North Sea for the potential storage of CO2 captured and transported from industrial facilities in the UK.
+Also in 2023, Shell's CANSOLV® carbon capture technology won a bid for deployment at a CCS plant in Abu Dhabi, UAE.
+The plant will capture and permanently store 1.5 million tonnes of CO2 a year.
+Direct air capture Shell's research programmes have been developing technology to directly remove carbon from the atmosphere for several years.
+In 2023, we took the decision to build a direct air capture (DAC) demonstration unit at our technology research centre in Houston, Texas, USA.
+The aim of the project, which has a targeted start-up date of 2025, is to prove the viability of Shell's solid sorbent technology.
+The unit is being developed by a diverse team of Shell scientists, engineers and technical experts across the globe.
+Our actions continued Shell Energy Transition Strategy 2024 39 38 39 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Integrated energy hubs As part of our approach to the energy transition, we are developing integrated energy hubs to reduce our own emissions and those of the products we sell.
+At our Energy and Chemicals Park Rotterdam in the Netherlands, for example, we are integrating biofuels, hydrogen and CCS into our existing facilities.
+We have started to build Holland Hydrogen 1 which will help to decarbonise fuel production at the nearby energy and chemicals park once operational.
+The hydrogen plant will be powered by renewable energy from the Hollandse Kust (noord) offshore wind farm.
+Some of the emissions from the energy hub will be captured and stored under the North Sea by two CCS projects once they are in operation.
+These are Porthos, where we are the biggest customer, and Aramis, a joint venture.
+As the market develops, we will seek opportunities for future projects and use our customer relationships to meet increasing demand for low-carbon solutions.
+Our actions continued 40 Shell Energy Transition Strategy 2024 Carbon credits Carbon credits can make an important contribution to our target to become a net-zero emissions energy business.
+They may be used by Shell and its customers to compensate emissions in line with the mitigation hierarchy of avoid, reduce and compensate.
+We are clear that carbon credits need to have a robust carbon benefit and deliver a positive impact on ecosystems and communities.
+We work closely with local partners to ensure that the carbon credits projects we invest in are of a high quality.
+We select projects that are certified under credible and independent carbon credit standards.
+These include the Verified Carbon Standard, Gold Standard and the American Carbon Registry.
+We do this to ensure that the carbon credits are real and verifiable, and that issues such as permanence, additionality and leakage have been adequately considered.
+We also help develop and buy carbon credits generated by other nature-based projects and by technologies.
+We carefully source and screen the credits we purchase and retire from the market.
+In 2023, Shell's net carbon intensity (NCI) accounted for 20 million carbon credits, of which 4 million were linked to the sale of energy products.
+Of the 20 million tonnes of carbon credit retirements included in Shell's NCI metric for 2023, 85% were certified by Verra, 9% by the American Carbon registry, 6% by Gold Standard, and less than 1% via Australian Carbon Credit Units.
+Tracking SAF with blockchain We are using new technologies to power our Upstream and Downstream assets, improve our trading and supply operations, and deliver compelling new materials and molecules.
+Avelia, a business model developed in partnership with Accenture and American Express Global Business Travel, uses blockchain to help our customers securely and transparently track emissions reductions and the environmental attributes of the sustainable aviation fuel they acquire, tracing it from production through to delivery into aviation fuelling networks.
+Our actions continued Shell Energy Transition Strategy 2024 41 Holland Hydrogen 1 Key Data centres Hollandse Kust (noord) wind farm 759 MW Aramis CCS 5 mtpa store Porthos CCS 2.5 mtpa store Industrial customers Shell Holland Hydrogen 1 200 MW Shell Energy and Chemicals Park Rotterdam Shell hydrogen stations CO₂ Power Hydrogen Map is not to scale a a b b c c c 40 41 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Technology and innovation Built on more than 125 years of technological innovation, our company's future performance depends on the successful development, demonstration and commercial deployment of new technologies and new products.
+In 2023, research and development expenditure on projects that contributed to decarbonisation was around $628 million, up from around $440 million in 2022.
+The 2023 figure represents around 49% of our total expenditure on research and development, up from around 41% in 2022.
+Our technology and innovation portfolio helps to deliver Shell's strategy by: ￮Achieving more value with less emissions across our core businesses today.
+For example, the Just Add Water System, developed by Shell, uses a software system to reduce fuel costs for marine vessels and the GHG emissions they emit.
+￮Creating the low-carbon products and solutions of tomorrow, such as our CANSOLV® carbon capture technology which will be deployed on the world's largest CCS plant in Abu Dhabi.
+￮Exploring the transformative technologies of the future, such as renewable hydrogen, direct air capture, and heat and power storage solutions.
+The technologies and business models we are developing will shape the products and services we offer our customers in the transport and industry sectors.
+At our Zhuhai plant in China, which produces lubricants and greases, we have introduced a thermal energy storage system.
+This system replaces diesel fuel with renewable electricity to generate the process steam required for manufacturing lubricants.
+The storage system will optimise steam production and is expected to reduce the use of diesel by 300 tonnes and CO2 emissions by more than 900 tonnes a year.
+By demonstrating the benefits of this type of system on a Shell facility, we are in a position to encourage and support the decarbonisation of our customers.
+We invest in the latest energy technologies through our partnerships with start-ups and leading academic institutions.
+For example, we are working with Imperial College London in the UK to develop new technologies, with a particular focus on electric vehicles, lubricants, energy storage, CCS, and materials.
+Powering industry through investments Shell Ventures invests in start-ups and bigger companies that seek to electrify energy systems, decarbonise transport, gain data-based insights and provide innovative customer solutions.
+In 2023, we invested in a German company called Kraftblock, which has created energy storage systems to help the industry sector switch from fossil fuels to renewable energies.
+The technology also allows customers to recycle waste heat.
+Shell Ventures is a partner with Norwegian company Corvus Energy, a leading supplier of safe, innovative and reliable energy storage solutions for the maritime industry.
+The company's battery storage systems replace diesel and bunkering oil, thereby reducing emissions.
+The storage systems are used on vessels in Shell's operations in the Gulf of Mexico.
+Our actions continued 42 Shell Energy Transition Strategy 2024 Climate policy engagement Comprehensive, coherent and consistent policies are a crucial part of the journey to net zero.
+With the right policy and regulatory conditions, we can profitably increase our investments through the energy transition.
+We advocate robust policies, legislation and regulations in areas where we can best support the decarbonisation of our customers and reduce our own emissions.
+Our advocacy, directly to governments, and indirectly through industry associations and coalitions, is a key part of our strategy.
+Shell engages with governments, regulators and policymakers in different ways to help shape policy, legislation and regulation.
+Our public policy positions serve as a framework for our advocacy with governments, international organisations, industry associations, and other stakeholders, globally, regionally and within countries.
+In using the positions, we recognise that the pace of the energy transition will vary around the world.
+In the table below, we show how our advocacy focuses on four key areas which we believe are critical to the energy transition and will support Shell's strategy.
+Read more about our policy positions on Shell.com/advocacy-andpolitical-activity Our actions continued Shell Energy Transition Strategy 2024 43 A leading investor in research and development (R&D) [A] % EBITDA spend on R&D (average 2021-2022) 0.0 0.5 1.0 1.5 2.0 1.6 1.3 1.2 0.8 0.6 Shell Peer group [A] Shell analysis of data published by peer companies (TotalEnergies, ExxonMobil, BP & Chevron) in annual reports with the note that definitions of R&D vary between companies.
+Sector Advocacy Theme Policy Positions Transport Translate targets into net-zero policy frameworks to achieve national net-zero emissions goals Put a price on direct carbon emissions, integrate credits into carbon markets and support international cooperation Regulatory frameworks that enable the production of hydrocarbons with lower emissions and the responsible management of end-of-project liabilities Drive demand for low-carbon fuels through mandates and fuel standards, and allow ﬂexibility in feedstock choice while meeting strong sustainability standards Aim for near-zero methane emissions and an end to routine ﬂaring as soon as possible and no later than 2030 Recognise the role of gas in facilitating the energy transition and in securing stable and ﬂexible energy supplies Establish policy frameworks for road transport that support the widespread adoption of low-emission vehicles and support investment in infrastructure through simpliﬁed and faster permitting and grid connections Encourage low-carbon energy use in industry through mandates and low-carbon product demand, and support investment in infrastructure networks and industrial hubs Incentivise production of sustainable aviation fuel and set mandates to drive demand Establish a global carbon intensity standard for marine fuels to drive lower-carbon fuel uptake Support production and demand for low-carbon hydrogen and accelerate infrastructure planning and investment Maintain liberalised power markets, enable uptake of power purchase agreements, and accelerate permitting and grid connections Provide incentives for CCS, ensure efﬁcient permitting and licensing of CCS infrastructure, and create regulatory frameworks that support storage and international transport and trading of CO2 Recognise the role of carbon credits and ensure quality and integrity through standards and frameworks Road transport Industry and services Aviation Marine Carbon abatement and removal A A B B B D D C C C C D A D Cross cutting themes Advocacy Themes: Cross-sector policies that support the achievement of national net-zero ambitions through comprehensive policy frameworks and carbon pricing, and which seek to ensure a just transition Achieving net-zero emissions A Policies that support energy security, such as clear and predictable regulatory frameworks that enable the production of hydrocarbons with lower emissions Supplying the secure energy the world needs B Policies that support changes in customer demand in transport and industry, such as vehicle standards, mandates for sustainable aviation fuel, and demand for low-carbon products Policies that encourage the development of low-carbon solutions, including incentives for biofuels, ﬂexibility in feedstock choices, and effective regulatory frameworks for hydrogen and carbon capture and storage (CCS) Driving changes in demand C Growing  low-carbon solutions D Policy and advocacy 42 43 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Advocacy in action Advocating policies that encourage demand for and incentivise investment in low-carbon solutions is a key part of our engagement with governments and regulators.
+In the USA, for example, we advocate permits for projects to be granted faster and with fewer hurdles.
+Delays, caused in part by prolonged litigation, negatively impact the delivery of projects.
+We believe reform of the permit system will help to deliver new projects relating to the Infrastructure Investment and Jobs Act and the Inflation Reduction Act.
+To achieve this reform, we have constructively engaged in legislative negotiations in the House of Representatives and Senate to advance bipartisan legislative solutions.
+In the EU, Shell is advocating policies to enable commercial investments in the energy transition, notably the creation of demand for low-carbon solutions.
+We supported the Fit for 55 package, including binding targets for the use of renewable hydrogen and advanced biofuels.
+We supported policies to accelerate the electrification of road transport and frameworks that help the business case for carbon abatement and removal.
+In Brazil, we advocate the establishment of a national emissions trading system (ETS), which is a form of carbon pricing.
+We believe this would incentivise decarbonisation at the lowest cost, and support the long-term development of a global carbon market.
+The ETS is awaiting a final review by the Federal Senate, after which it is expected to be written into law.
+In the Asia-Pacific region, Shell is working with local and national governments to develop policy and regulatory frameworks for CCS.
+The creation of cross-border CCS hubs in the region could benefit multiple industries across the region.
+In 2024, Shell and ExxonMobil were selected to work with the Singapore government as lead developers for a crossborder CCS project that could store at least 2.5 million tonnes of carbon dioxide a year by 2030.
+Our actions continued 44 Shell Energy Transition Strategy 2024 Our actions continued Shell Energy Transition Strategy 2024 45 Energy transition in action Selection of portfolio developments [A] Country Development Leading Leading Integrated Integrated Gas Gas Canada LNG Canada T1-2 Indonesia Masela PSC/Abadi divestment Nigeria NLNG T7 Qatar QatarEnergy LNG NFE(2) Advantaged Advantaged Upstream Upstream Brazil Mero-2 start-up Mero-3 Mero-4 Malaysia Marjoram/Rosmari United Kingdom Pierce redevelopment Jackdaw USA Aera Energy divestment Sparta FID Vito start-up Whale Malaysia Baram Delta divestment Timi start-up Nigeria Nigerian onshore (SPDC) divestment agreed Americas Africa Middle East Asia-Pacific Europe Country Development Differentiated Differentiated Downstream, Downstream, Renewables and Renewables and Energy Solutions Energy Solutions China EV growth Denmark Nature Energy acquisition Germany FID to repurpose Energy and Chemicals Park Rheinland Shell home energy retail divestment India Sprng Energy investment funnel Netherlands CrossWind/HKN HEFA Biofuels Plant Rotterdam Holland Hydrogen I Ecowende/HKW Norway Northern Lights JV (Phase 1) Pakistan Shell Pakistan Limited divestment agreed Singapore Aspired divestment of Energy and Chemicals Park Singapore United Kingdom Shell home energy retail divestment Acorn CCS Three CCS licenses USA Volta acquisition Savion investment funnel Renewable natural gas investments Atlantic Shores - Project 1 [A] These developments include acquisitions, investments, projects, divestments and withdrawals, at various stages of maturity and with different levels of Shell interest from minority investment to full ownership.
+44 45 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Working to reduce our absolute Scope 1 and 2 emissions Scope 1 and 2 emissions in million tonnes per annum [A], [B] 2030 Carbon credits [C] Carbon capture and storage Use of renewable power Energy and chemicals park transformation Efﬁciency improvements Portfolio changes 2023 2022 2021 2020 2016 41 68 58 71 83 11 72 b a 8 63 8 60 7 50 7 51 57 a b Scope 1 Scope 2 c Target -31% c -50% Targets, ambitions and performance Our target is to become a net-zero emissions energy business by 2050 It includes net-zero emissions from our operations, as well as net-zero emissions from the end-use of all the energy products we sell.
+In the short and medium term, we have set climate targets for emissions that we are able to control, namely our Scope 1 and 2 emissions, methane emissions, and flaring.
+We have also set climate targets and ambitions for emissions that are outside our control.
+These include our ambition to reduce the Scope 3, Category 11 customer emissions from the use of our oil products, and our target to reduce the net carbon intensity of all the energy products we sell.
+[A] On a net basis.
+[B] Subject to completion of the sale of SPDC.
+[C] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569 million tonnes CO2e in 2021.
+46 Shell Energy Transition Strategy 2024 Reducing our absolute Scope 1 and 2 emissions In October 2021, we set a target to halve the emissions from our operations (Scope 1), plus the energy we buy to run them (Scope 2), by 2030 compared with 2016 levels on a net basis.
+To decarbonise our operations, we are focusing on: ￮making portfolio changes such as acquisitions and investments in new, low-carbon projects.
+We are also decommissioning plants, divesting assets, and reducing our production through the natural decline of existing oil and gas fields; ￮improving the energy efficiency of our operations; ￮transforming our remaining integrated refineries into low-carbon energy and chemicals parks, which involves decommissioning plants; ￮using more renewable electricity to power our operations; and ￮developing carbon capture and storage (CCS) for our facilities.
+If required, we may choose to use high-quality carbon credits to offset any remaining emissions from our operations, in line with the mitigation hierarchy of avoid, reduce, and compensate.
+The chart below shows our progress since 2016 in reducing our Scope 1 and 2 emissions and gives an indication of how we expect to achieve our target in 2030.
+The actions we will take to achieve our target will depend on the evolution of our asset portfolio and the continued development of technologies that reduce carbon emissions.
+We expect that on a net portfolio basis, new investments across our portfolio will increase our Scope 1 and 2 emissions between 2024 and 2030, but this increase will be outweighed by planned divestments and natural decline.
+Our investments in producing low-carbon energy such as biofuels will increase our Scope 1 and 2 emissions, while reducing the net carbon intensity of the products we sell.
+Subsequent reductions in our emissions are reflected in the mechanisms outlined below and reflect an expected path to meeting our target in 2030.
+Targets, ambitions and performance continued Shell Energy Transition Strategy 2024 47 [A] The 2016 baseline was not recalculated in 2023.
+The 2016 baseline may be recalculated in future years if an acquisition or a divestment has an impact of more than 10% on the total Scope 1 and 2 emissions.
+[B] Operational control boundary.
+[C] Including nature-based solutions.
+Emissions from the products we sell (Scope 3) Eliminating routine flaring from Upstream operations by 2025 [B] Target Target Target Targets and ambitions Maintain methane emissions intensity below 0.2% and achieve near-zero methane emissions by 2030 Net-zero emissions by 2050 (Scopes 1, 2 and 3) Emissions from our own operations (Scope 1 and 2) Halving Scope 1 and 2 emissions by 2030 [A] under operational control (2016 reference year) Ambition Target Oil products ambition Reduce customer emissions from the use of our oil products by 15-20% by 2030, Scope 3 Category 11 [C] (2021 reference year) Net carbon intensity (NCI) Introducing a range of 15-20% for our target to reduce NCI by 2030 (2016 reference year) New Updated 46 47 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Our direct GHG emissions (Scope 1, operational control boundary) decreased from 51 million tonnes of carbon dioxide equivalent (CO2e) in 2022 to 50 million tonnes CO2e in 2023, driven by several factors including: divestments in 2022 (e.g.
+Deer Park and Mobile refinery, Tunisia Miskar concession, offshore Baram Delta Operations (BDO) PSC and Block SK307 PSC in the Philippines) and handover of operations in OML 11 in Nigeria in 2022; unplanned downtime (e.g.
+Deer Park Chemicals); reduced flaring from assets including Shell Nigeria Exploration and Production Company (SNEPCo); reduction activities and purchase of renewable electricity.
+These decreases were partly offset by Shell Polymers Monaca having more units online in 2023 and higher emissions from our Pearl gas-to-liquids plant and our Prelude floating liquefied natural gas facility with increased production.
+Methane emissions Methane emissions include those from unintentional leaks, venting and incomplete combustion, for example in flares and turbines.
+Our target to maintain methane emissions intensity below 0.2% continued to be met in 2023.
+Shell's overall methane emissions intensity was at 0.05% for facilities with marketed gas and 0.001% for facilities without marketed gas.
+We believe our methane emissions are quantified according to industry best practice.
+This target covers all Shell-operated oil and gas assets in our Upstream and Integrated Gas businesses.
+By the end of 2023, we reduced our total methane emissions by 70% since 2016.
+In 2023, Shell's total methane emissions were 41 thousand tonnes compared with 40 thousand tonnes in 2022.
+The increase was due to venting (for example, the maintenance of our Prelude asset and operational issues in assets operated by Sarawak Shell Berhad) and an increase in reported emissions from integrated gas assets in Canada resulting from the adoption of enhanced source level measurements in line with OGMP reporting requirements.
+Targets, ambitions and performance continued 48 Shell Energy Transition Strategy 2024 Routine flaring We are working to reduce flaring, which is inefficient and contributes to climate change.
+Routine flaring of gas occurs during normal oil production when it is not possible to use the gas or reinject it into the well.
+In 2021, we brought forward our target to eliminate routine flaring from our upstream operations to 2025 [A] from 2030.
+This accelerates our commitment of 2015 to end routine flaring as a signatory to the World Bank's Zero Routine Flaring by 2030 initiative.
+Total routine flaring from our upstream oil and gas assets remained relatively stable in 2023 compared with 2022 at 0.1 million tonnes, having reduced from 1.1 million tonnes in 2016.
+Around 50% of total routine and non-routine flaring in our Integrated Gas and Upstream facilities in 2023 occurred in assets operated by the SPDC and Shell Nigeria Exploration and Production Company (SNEPCo).
+On January 16, 2024, Shell reached an agreement to sell SPDC to a consortium of five companies, subject to approvals by the Federal Government of Nigeria and other conditions.
+[A] Subject to completion of the sale of SPDC.
+Reducing net carbon intensity We have set targets to reduce the net carbon intensity (NCI) of the energy products we sell by 9-12% by 2024, 9-13% by 2025, 15-20% by 2030, and 100% by 2050.
+The intended use of the NCI metric is to track progress in reducing the overall carbon intensity of the energy products sold by Shell.
+Net carbon intensity measures emissions associated with each unit of energy we sell, compared with a 2016 baseline.
+It reflects changes in sales of oil and gas products, and changes in sales of low and zero-carbon products- such as biofuels, hydrogen and renewable electricity.
+Unlike Scope 1 and 2 emissions, reducing the net carbon intensity of the products we sell requires action by both Shell and our customers, with the support of governments and policymakers to create the right conditions for change.
+Our focus on where we can add the most value has led to a strategic shift in our power business.
+We plan to build our integrated power business, including renewable power, in places such as Australia, Europe, India and the USA.
+We have withdrawn from the supply of energy directly to homes in Europe because we do not believe that is where our strengths lie.
+In line with our shift to prioritising value over volume in power, we are concentrating on select markets and segments.
+One example is our focus on commercial customers more than retail customers.
+Given this focus on value, we expect growth in total power sales to 2030 will be lower than previously planned.
+This has led to an update to our net carbon intensity target.
+We are now targeting a 15-20% reduction by 2030 in the net carbon intensity of the energy products we sell, compared with 2016, against our previous target of a 20% reduction.
+Acknowledging uncertainty in the pace of change in the energy transition, we have also chosen to retire our 2035 target of a 45% reduction in net carbon intensity.
+The biggest driver for reducing our net carbon intensity is increasing the sales of and demand for low-carbon energy.
+The chart on the next page illustrates how changes in the volume of products and services we sell could result in net carbon intensity reductions through to 2030.
+The change in our sales of these products and services will also reflect the development and adoption of new technologies and infrastructure, and the adoption of public policies designed to encourage the energy transition.
+Targets, ambitions and performance continued Shell Energy Transition Strategy 2024 49 Methane emissions intensity [A] % Methane emissions [D] Thousand tonnes [A] Our target is to maintain methane emissions intensity below 0.2% and achieve near-zero methane emissions by 2030.
+[B] Methane emissions intensity from all oil and gas assets for which Shell is the operator that market their gas (incl.
+LNG and GTL assets), defined as the total volume of methane emissions in normal cubic metre (Nm3) per total volume of gas available for sale in Nm3.
+[C] Methane emissions intensity from all oil and gas assets for which Shell is the operator that do not market their gas (e.g.
+where gas is reinjected) defined as the total mass of methane emissions in tonnes per total mass of oil and condensate available for sale in tonnes.
+[D] Total methane emissions for all assets under Shell operational control including Integrated Gas and Upstream and Downstream and Renewables and Energy Solutions assets, quantified according to industry best practice.
+Assets with marketed gas [B] Assets without marketed gas [C] 0.00 0.10 2023 2022 2021 2016 0.05 Methane emissions 0 30 60 90 120 150 2023 2022 2021 2020 2019 2018 2017 2016 48 49 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Working to reduce our net carbon intensity (NCI) NCI in gCO2e/MJ [A] -15-20% -6.3% 77 79 ■ Grow power sales ■ Grow biofuels, develop hydrogen ■ Develop Carbon capture and storage ■ High-quality carbon credits 76 74 2030 Carbon credits [F] Carbon capture and storage [E] Low-carbon fuels sales [D] Power sales [C] Hydrocarbon sales [B] 2023 2022 2021 2016 a b Actual Target a b In 2023, Shell's NCI was 74 grams of carbon dioxide equivalent per megajoule of energy (gCO2e/MJ), a 2.6% decrease from the previous year and a 6.3% reduction compared with 2016, the base year.
+The decrease in Shell's NCI in 2023 was mainly achieved through a reduction in the average intensity of power sold and the use of carbon credits.
+The power intensity reduction was driven mainly by progress in grid decarbonisation in key markets such as the USA and Europe, and partly by increased sales of renewable power, including the retirement of Renewable Energy Certificates.
+We undertake external verification of our GHG emissions annually.
+Our Scope 1 and 2 GHG emissions from assets and activities under our operational control and emissions associated with the use of our energy products (Scope 3) included in our NCI have been verified to a level of limited assurance.
+Targets, ambitions and performance continued 50 Shell Energy Transition Strategy 2024 [A] Grams of carbon dioxide equivalent per megajoule.
+[B] Hydrocarbon sales reflect the effect of lower sales of oil products, and higher sales of natural gas.
+Emissions associated with gas are lower than those of oil products.
+[C] Power sales show the expected growth of our integrated power business and increasing sales of renewable power.
+[D] Sales of low-carbon fuels reflect higher sales of biofuels and hydrogen, which are low- and zero-carbon products.
+[E] CCS reduces carbon emissions by capturing them at source.
+[F] Carbon credits such as nature-based solutions can be used to offset remaining carbon emissions, particularly in hard-to-abate sectors such as aviation and industries including cement and steel.
+Ambition to reduce customer emissions from the use of our oil products We have set a new ambition to reduce customer emissions from the use of our oil products by 15-20% by 2030 compared with 2021 (Scope 3, Category 11).
+That is more than 40% compared with 2016 reported emissions.
+[A] This level of ambition is in line with the European Union's climate goals in the transport sector, among the most progressive in the world.
+Achieving this ambition will mean reducing sales of oil products, such as petrol and diesel, as we support customers as they move to electric mobility and lower-carbon fuels, including natural gas, LNG and biofuels.
+[A] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023, 569 million tonnes CO2e in 2021 and 819 million tonnes CO2e in 2016.
+Of the 40% reduction by 2030, around 8 percentage points are related to volumes associated with additional contracts being classified as held for trading purposes, impacting reported volumes from 2020 onwards.
+For further details see "Climate-related metrics and targets" in our Annual Report and Accounts 2023.
+Targets, ambitions and performance continued Shell Energy Transition Strategy 2024 51 Scope 3, Category 11 emissions by product [A] LPG [D] Diesel [B] Gasoline Kerosene Natural gas LNG [C] Fuel oil Included in Shell's ambition to reduce customer emissions from the use of our oil products by 15-20% by 2030 compared with 2021 (Scope 3, Category 11) [A] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes carbon dioxide equivalent (CO2e) in 2023 and 569 million tonnes CO2e in 2021.. [B] Including blended gas-to-liquids.
+[C] Liquefied natural gas.
+[D] Liquefied petroleum gas.
+50 51 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Paris alignment The Paris Agreement aims to strengthen the global response to the threat of climate change by "holding the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels".
+Shell supports the more ambitious goal of the Paris Agreement, which is to limit the rise in global average temperature this century to 1.5°C above pre-industrial levels.
+There is no established standard for aligning an energy supplier's decarbonisation targets and ambitions with the 1.5°C temperature goal of the Paris Agreement.
+For this reason, we have defined our net carbon intensity target using 1.5°C scenarios developed for the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6).
+We start with the complete set of 1.5°C scenarios [A] and then exclude scenarios which are too reliant on carbon removals or use of bioenergy before removing outliers.
+We then calculate an emissions intensity for each scenario which is comparable to our own net carbon intensity.
+Finally, we produce a 1.5°C pathway based on the reductions in emissions intensity over time.
+We have chosen to use a range instead of any individual scenario to better reflect the uncertainty of the energy transition.
+[A] These are the AR6 scenarios which have a greater than 50% likelihood of limiting warming to 1.5°C with no or limited overshoot (C1) or of returning warming to 1.5°C after a high overshoot (C2).
+Overshoot describes how much the global temperature in a scenario exceeds 1.5°C before returning.
+We believe that using this pathway to set our targets demonstrates that they are aligned with the more ambitious 1.5°C goal of the Paris Agreement.
+This is illustrated in the chart below.
+Read more about our approach at shell.com/sustainability/ourclimate-target/our-climate-target-faqs Targets, ambitions and performance continued 52 Shell Energy Transition Strategy 2024 Shell net zero by 2050 We are committed to our target to become a net-zero emissions energy business by 2050.
+To achieve net zero, we will reduce emissions from our own operations, change the mix of the energy products we sell and grow new carbon removal and abatement businesses.
+At the same time, we will work to help advance the critical factors required for the world to achieve net zero.
+Critical factors on the path to net zero The scale of the energy transition requires fundamental change in both supply and demand.
+It will take supportive government policies, advances in technology and investments by companies across all parts of the economy to achieve this.
+We advocate policies, legislation and regulations in areas where we can best support the decarbonisation of our customers, reduce our own emissions and help accelerate the energy transition.
+To help stimulate demand, we are investing in scaling up lowcarbon solutions so that they become an affordable choice for our customers.
+Through partnerships with start-ups and leading academic institutions, we are also helping to develop the technologies of the future that will be critical to achieving net zero such as direct air capture, renewable hydrogen and heat and power storage solutions.
+Multi-energy business There remains significant uncertainty around the shape of the future energy system.
+As a result, we are developing a multi-energy portfolio that has the flexibility to respond to uncertainty, and that will allow us to remain a successful business and achieve net-zero emissions.
+By 2050, we expect that low-carbon products and solutions will have grown to become a material part of our portfolio.
+These solutions will be in the form of sustainable biofuels as well as liquid synthetic products, such as synthetic kerosene for aviation, that will be created through new technologies.
+At the same time, we will have focused our oil and gas businesses on projects with higher margins and lower carbon emissions, while pairing these projects with carbon capture and storage to further reduce emissions.
+In addition to our energy sales, a core part of our future business will be helping customers to decarbonise in the sectors where we have competitive advantages, including by capturing carbon and storing it, or by using the carbon to produce lowcarbon products such as hydrogen.
+While the journey to net zero will include significant challenges, it also presents many opportunities.
+Through the actions we are taking today, we are positioning Shell to deliver more value with less emissions as we transform into a net-zero emissions energy business.
+Shell Energy Transition Strategy 2024 53 Shell's Paris-aligned targets 0% 20% 40% 60% 80% 100% 120% 2055 2050 2045 2040 2035 2030 2025 2020 2015 2010 a IPCC AR6 1.5oC range a Shell historical b e b c Shell targets e IEA APS c d IEA NZE d Share of global primary energy mix % a b c Hydrocarbon a Renewables [A] b Low-carbon molecules [B] c 2015 2020 2025 2030 2035 2040 2045 2050 100 80 60 40 20 0 [A] Renewables category includes contribution to energy from renewable power sources (wind, solar and hydroelectric) and nuclear power.
+[B] Low carbon molecules includes biofuels and biomass.
+Scenarios included: Shell Sky2050 and Archipelagos; C1 & C2 from AR 6 (average of); IEA NZE & APS.
+52 53 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Just transition and governance A just transition A successful energy transition depends on more than financial investment and technological advances.
+It also needs to be a just transition, which means a fairer distribution of the costs and benefits of the world's transition to a net-zero emissions energy system.
+Shell aims to contribute to a just and inclusive transition by making a positive economic and social impact on communities, workers and customers.
+Closing the energy access gap Today, around 675 million people do not have access to electricity and 2.3 billion lack access to clean cooking facilities, according to the UN Department of Economic and Social Affairs.
+Shell has pledged $200 million as part of a broader initiative to help people get access to energy in the near and medium term.
+The initiative aims to help millions of people in underserved communities in sub-Saharan Africa, India and South-east Asia get access to electricity and improved cooking conditions.
+Skills for the future As more jobs are created in renewable energy, it is important to provide workers with the opportunity to learn new skills.
+This requires robust dialogue and collaboration between governments, businesses and the workforce.
+We are aiming to help 15,000 people in the UK get jobs with a focus on the energy transition by 2035.
+Shell, together with its partners, is supporting the creation of two energy transition skills hubs in Scotland and one in Wales.
+The facilities, which are expected to open in 2024 and 2025, aim to provide people with skills for the future, such as in wind turbine maintenance and heat pump installation.
+In 2023, around 6,900 Shell employees – up from around 4,000 in 2022 – completed courses linked to the energy transition, including hydrogen production, carbon capture and storage, and greenhouse gas and energy management.
+We use our existing structures to expand social dialogue with employees, employee representative bodies, relevant local government agencies and communities to address the social aspects of the energy transition and to advance human rights and labour rights.
+Equal opportunities Equality of opportunity for groups that have been traditionally under-represented in energy is an important element of a just transition.
+Shell has set an ambition to become one of the most diverse and inclusive organisations in the world.
+This is embedded in our company strategy and applies to all parts of our business.
+We currently prioritise four areas: gender, race and ethnicity, LGBT+ and disability inclusion and enablement.
+Communities At our Pottendijk wind and solar power park in the Netherlands, which opened in 2023, we are sharing the proceeds from the renewable energy we generate.
+Over the next 16 years we expect to pay around $2 million into a community fund, which the municipality of Emmen will use as the community sees best.
+In Nigeria, Shell-funded investment company All On has agreed to invest $11 million in 25 mini-grid projects across the country.
+The company plans to supply affordable solar energy to communities that need it the most.
+Human rights, governments and industry Respecting human rights is an essential element of a just transition.
+Shell is committed to respecting human rights, as set out in the United Nations Universal Declaration of Human Rights and the International Labour Organization's Declaration on Fundamental Principles and Rights at Work.
+Read more about our approach at shell.com/justtransition 54 Shell Energy Transition Strategy 2024 Climate governance Our governance framework is designed to effectively deliver on the energy transition ambitions and targets of our Powering Progress strategy, which seeks to deliver more value with less emissions.
+The Board reviews our energy transition strategy periodically and oversees its implementation and delivery.
+In 2023, the Board considered climate-related matters throughout the year, including the assessment of climaterelated risks and the effectiveness of corresponding risk management activities.
+The Board also challenged and endorsed business plans, including consideration of major capital expenditures, acquisitions and divestments.
+Our remuneration policies are designed to challenge and support the Executive Committee (EC) to reduce net carbon emissions, while generating shareholder value.
+Energy transition targets were part of the 2023 annual bonus scorecard (15% weighting), applicable to the majority of Shell's employees, as well as the 2023 Long-term Incentive Plan (LTIP) awards for senior executives (25% weighting) and the 2023 Performance Share Plan (PSP) awards for other employees (12.5% weighting), both vesting in 2026.
+Carbon management framework (CMF) We employ several processes across our organisation to ensure that management teams can effectively monitor and manage climate-related matters, including the delivery of Group carbon targets.
+These processes are supported by a combination of carbon management standards in projects, business growth forums where portfolio decisions are made, and capability development programmes.
+To drive delivery of carbon targets in the 2023 operating plan cycle, our net carbon intensity targets were translated into net absolute emissions budgets for each business.
+This enabled trade-offs within those budgets between emitting carbon and generating shareholder value.
+We also use carbon metrics (profitability per unit of carbon emitted) in decision-making when comparing different growth opportunities against each other.
+For the 2024 LTIP and PSP awards, "Shell's journey in the energy transition" performance condition retains the same weightings as for 2023.
+The extent to which awards will vest will be based on a holistic assessment of progress towards reducing emissions from our operations and supporting our customers to reduce their emissions.
+This will be based on our journey to net-zero targets for our own operations of: ￮Halving Scope 1 and 2 emissions by 2030 under operational control on a net basis (2016 baseline); ￮Eliminating routine flaring from upstream operations by 2025 [A]; and ￮Maintaining methane emissions intensity below 0.2% and achieving near-zero methane emissions by 2030.
+It will also be based on progress in developments that support the energy transition to 2030 and beyond, such as the development of our power business (including renewables), lower-carbon LNG, biofuels, electric vehicle charging, hydrogen and carbon capture and storage (CCS).
+[A] Subject to completion of the sale of SPDC.
+Just transition and governance continued Shell Energy Transition Strategy 2024 55 54 55 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 We will take into account progress towards achieving a 15-20% reduction in NCI by 2030 (2016 baseline) and a 15-20% reduction in customer emissions from the use of our oil products by 2030 (2021 baseline) [A].
+We will also take into account Shell’s wider performance in accelerating the energy transition, for example by demonstrating leadership and advocacy in standard setting, alongside any other factors that are considered material.
+In 2024, we have adjusted the energy transition measure in our annual scorecard in light of our energy transition strategy update.
+By doing this, we continued to align to Shell’s strategic objective of becoming a net-zero emissions energy business by 2050, supporting a balanced energy transition by responsibly delivering the oil and gas people need today, while helping to build the clean energy system of the future.
+The metric "Shell's journey in the energy transition" in the annual bonus scorecard represents: ￮LNG volumes – equity liquefaction; ￮Reducing operational emissions – operational actions to reduce emissions in support of our target to achieve a 50% reduction in Scope 1 and 2 emission by 2030, on a net basis; and ￮Supporting customer decarbonisation – electric vehicle charge point roll-out.
+[A] Customer emissions from the use of our oil products (Scope 3, Category 11) were 517 million tonnes CO2e in 2023 and 569 million tonnes CO2e in 2021.
+For further details see "Governance of climate-related risks and opportunities" in our Annual Report and Accounts 2023.
+Energy transition and advisory votes Shell offered its first Energy Transition Strategy for submission to a shareholder advisory vote at the 2021 Annual General Meeting.
+The vote offered shareholders an opportunity to engage with and support Shell's energy transition plans.
+Shell was one of the first companies in the world to introduce such a vote.
+In 2022 and 2023, Shell also offered an advisory vote on its progress in putting its energy transition plans into action in the previous year.
+Following engagements with institutional investors, we found that expectations around issues such as the inclusion of an absolute Scope 3 target influenced the voting decisions of many investors, rather than the progress report itself.
+As a result, going forward, the energy transition progress report will be part of the Annual Report and Accounts without an advisory vote, while the Energy Transition Strategy (this publication) will be updated and offered for an advisory vote at least every three years.
+Just transition and governance continued 56 Shell Energy Transition Strategy 2024 Climate litigation Climate litigation Environmental activists continue to bring litigation against governments and companies for the effects of climate change on individuals and communities around the world.
+In the Netherlands, Shell is appealing a decision from the District Court of The Hague ordering us to reduce worldwide aggregate carbon emissions across Scope 1, 2 and 3 by net 45% by 2030, compared with 2019 levels.
+The order states that reductions in Scope 2 and 3 emissions should be on a "significant best efforts basis".
+We are appealing the decision because we do not believe this is the right solution for the energy transition.
+By focusing on one company, and only on the supply of energy rather than the demand for it, we believe the ruling is ineffective and even counterproductive in addressing climate change.
+It is not clear how Shell can be ordered to reduce the emissions it does not control from customers, who are not under a similar legal obligation to reduce their emissions.
+The court is also asking Shell to reduce emissions significantly faster than the EU, which has one of the most ambitious pathways in the world.
+Shell believes that by working together, with effective government policies, the world can help shift consumer demand to low-carbon products and develop the infrastructure and technology needed for the energy transition, while maintaining a secure and affordable supply of energy.
+Shell's appeal will be heard by the Dutch Court of Appeal in April 2024.
+As we wait for the outcome of the appeal, Shell is taking active steps to comply with the ruling.
+Shell Energy Transition Strategy 2024 57 56 57 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Climate standards and benchmarks Climate initiatives and benchmarks play a role in supporting Shell's efforts in the energy transition.
+They promote an ongoing dialogue between interested parties and highlight areas of progress against externally established criteria.
+Doing business in a clear, open way is a commitment we work hard to keep, and we promote transparency where possible throughout our industry.
+We continue to learn as we work to provide relevant information to key stakeholders groups.
+In doing so we work with a number of stakeholders including regulators, auditors, investors and non-governmental organisations.
+Our strategy and progress in the energy transition, as well as our efforts to increase transparency, are recognised across environmental, social and governance (ESG) frameworks.
+Over the years, our performance scores have improved consistently, as evidenced by the assessment done by various external parties, including the most recent analysis from the Carbon Tracker Initiative [A] which highlights Shell’s good practices and key improvements in the financial related climate disclosures.
+ESG rating agencies [B] 2020 2021 2022 2023 MSCI A AA AA AA Sustainalytics 36.8 H 35.1 H 34.7 H 33.7 H ISS C C+ C+ C+ [A] Flying Blind: In a Holding Pattern, Carbon Tracker Initiative, February 2024 [B] MSCI: A score of AA and AAA indicates the company is leading its industry in managing the most significant ESG risks and opportunities.
+Sustainalytics: A lower score indicates a lower risk of experiencing material financial impacts from ESG factors.
+ISS: Companies are rated on a 12-point scale from A+ (best) to D-(worst).
+Climate Initiatives ISS The ISS ESG net zero alignment model evaluates whether companies have a credible decarbonisation strategy, including interim greenhouse gas emissions targets and substantiated commitments to achieving net zero by 2050.
+Shell is one of eight companies in the oil and gas sector that received a net zero overall alignment status of "aligning" in 2023.
+Transition Pathway Initiative The Transition Pathway Initiative (TPI) is a global, asset-owner led initiative which assesses companies' preparedness for the transition to a low-carbon economy.
+TPI assess a companies' performance and progress in the energy transition against internationally agreed benchmark.
+TPI's assessment is divided into two parts: management quality and carbon performance.
+Management quality describes a company’s carbon management practices and governance, with a higher score indicating better performance.
+Carbon performance compares a company’s emissions pathway against different climate scenarios consistent with the Paris Agreement.
+The carbon performance scores indicate whether a company's targets and plans are aligned in the short-term (2025), medium term (2035), and long-term (2050).
+In terms of management quality, in 2023, we received the highest score of four (strategic assessment) for the management of our greenhouse gas emissions, and of risks and opportunities related to the low-carbon transition.
+This exceeds the average score of 3.2 across all assessed companies in the oil and gas sector (90).
+In relation to carbon performance, although Shell's goal of becoming a net-zero emissions energy business by 2050 remains unchanged, TPI no longer considers this target to be aligned with its 1.5°C benchmark.
+This is the result of TPI's approach to accounting for customer mitigation actions.
+58 Shell Energy Transition Strategy 2024 Climate Action 100+ Climate Action 100+ is an investor-led initiative that drives corporate action on climate change, representing investors with assets of around $68 trillion.
+Its net zero company benchmark assesses companies against three high-level goals set by investors: emissions reduction, governance, and climate-related disclosures.
+It tracks business alignment with a net-zero emissions future and the Paris Agreement goal of limiting global temperature rise to 1.5°C.
+The disclosure framework evaluates the adequacy of corporate disclosure in relation to key actions companies can take to align with the goals of the Paris Agreement, and is assessed by the Transition Pathway Initiative.
+The latest results for Shell are shown below, based on publicly disclosed information as of May 29, 2023.
+Disclosure framework 2022 2023 Yes, meets all criteria 5 2 Partial, meets some criteria 3 7 No, does not meet any criteria 1 1 We are disappointed to see that our ratings have deteriorated in some areas in the latest assessment, which is largely due to annual updates to the methodology used.
+We have a strong governance and commitment to transparency so that investors can continue to assess our climate strategy and compare our progress with that of other companies.
+We will continue our engagement with CA100+ and TPI with the aim of ensuring that our current targets and disclosures are reflected in their benchmark and hope we can continue to improve the outcome in their assessment.
+Task Force on Climate-related Financial Disclosures Since 2017, Shell has supported the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD).
+The TCFD is a global initiative to get companies across all sectors to assess climate-related risks and opportunities.
+It recommends disclosure of qualitative and quantitative information aligned to its four core elements: governance, strategy, risk management, and metrics and targets.
+Our climate-related financial disclosures are consistent with all the TCFD's Recommendations and Recommended Disclosures.
+Please refer to our Annual Report and Accounts 2023 for more details.
+Shell's disclosures related to recommendations by the TCFD are set out in the "Our journey to achieving net zero" section of the Annual Report.
+Climate standards and benchmarks continued Shell Energy Transition Strategy 2024 59 58 59 Shell Energy Transition Strategy 2024 Shell Energy Transition Strategy 2024 Design and production: Friend www.friendstudio.com Print: Toppan Merrill Reports are available in all inclusive formats at Shell.com/annual-publications Reporting for all CBP00019082504183028 The companies in which Shell plc directly and indirectly owns investments are separate legal entities.
+In this report "Shell", "Shell Group" and "Group" are sometimes used for convenience where references are made to Shell plc and its subsidiaries in general.
+Likewise, the words "we", “us" and "our' are also used to refer to Shell plc and its subsidiaries in general or to those who work for them.
+These terms are also used where no useful purpose is served by identifying the particular entity or entities.
+"Subsidiaries", "Shell subsidiaries" and "Shell companies" as used in this report refer to entities over which Shell plc either directly or indirectly has control.
+The term “joint venture”, "joint operations", "joint arrangements", and "associates" may also be used to refer to a commercial arrangement in which Shell has a direct or indirect ownership interest with one or more parties.
+The term "Shell interest" is used for convenience to indicate the direct and/or indirect ownership interest held by Shell in an entity or unincorporated joint arrangement, after exclusion of all third-party interest.
+Forward-looking statements This report contains forward-looking statements (within the meaning of the U.S.
+Private Securities Litigation Reform Act of 1995) concerning the financial condition, results of operations and businesses of Shell.
+All statements other than statements of historical fact are, or may be deemed to be, forward-looking statements.
+Forwardlooking statements are statements of future expectations that are based on management's current expectations and assumptions and involve known and unknown risks and uncertainties that could cause actual results, performance or events to differ materially from those expressed or implied in these statements.
+Forward-looking statements include, among other things, statements concerning the potential exposure of Shell to market risks and statements expressing management's expectations, beliefs, estimates, forecasts, projections and assumptions.
+These forward-looking statements are identified by their use of terms and phrases such as "aim", "ambition", "anticipate", "believe", "could", "estimate", "expect", "goals", "intend", "may", "milestones", "objectives", "outlook", "plan", "probably", "project", "risks", "schedule", "seek", "should", "target", "will" and similar terms and phrases.
+There are a number of factors that could affect the future operations of Shell and could cause those results to differ materially from those expressed in the forward-looking statements included in this report, including (without limitation): (a) price fluctuations in crude oil and natural gas; (b) changes in demand for Shell's products; (c) currency fluctuations; (d) drilling and production results; (e) reserves estimates; (f) loss of market share and industry competition; (g) environmental and physical risks; (h) risks associated with the identification of suitable potential acquisition properties and targets, and successful negotiation and completion of such transactions; (i) the risk of doing business in developing countries and countries subject to international sanctions; (j) legislative, judicial, fiscal and regulatory developments including regulatory measures addressing climate change; (k) economic and financial market conditions in various countries and regions; (l) political risks, including the risks of expropriation and renegotiation of the terms of contracts with governmental entities, delays or advancements in the approval of projects and delays in the reimbursement for shared costs; (m) risks associated with the impact of pandemics, such as the COVID-19 (coronavirus) outbreak, regional conflicts, such as Russia's invasion of Ukraine, and a significant cybersecurity breach; and (n) changes in trading conditions.
+No assurance is provided that future dividend payments will match or exceed previous dividend payments.
+All forward-looking statements contained in this report are expressly qualified in their entirety by the cautionary statements contained or referred to in this section.
+Readers should not place undue reliance on forward-looking statements.
+Additional risk factors that may affect future results are contained in Shell plc's Form 20-F for the year ended December 31, 2023 (available at shell.com/ investors/news-and-filings/sec-filings.html and sec.gov).
+These risk factors also expressly qualify all forward-looking statements contained in this report and should be considered by the reader.
+Each forward-looking statement speaks only as of the date of this report, March 14, 2024.
+Neither Shell plc nor any of its subsidiaries undertake any obligation to publicly update or revise any forward-looking statement as a result of new information, future events or other information.
+In light of these risks, results could differ materially from those stated, implied or inferred from the forward-looking statements contained in this report.
+Shell's net carbon intensity Also, in this report we may refer to Shell's "net carbon intensity", which includes Shell's carbon emissions from the production of our energy products, our suppliers' carbon emissions in supplying energy for that production and our customers' carbon emissions associated with their use of the energy products we sell.
+Shell only controls its own emissions.
+The use of the term Shell's "net carbon intensity" is for convenience only and not intended to suggest these emissions are those of Shell plc or its subsidiaries.
+Shell's net-zero emissions target Shell's operating plan, outlook and budgets are forecasted for a ten-year period and are updated every year.
+They reflect the current economic environment and what we can reasonably expect to see over the next ten years.
+Accordingly, they reflect our Scope 1, Scope 2 and Net Carbon Intensity (NCI) targets over the next ten years.
+However, Shell's operating plans cannot reflect our 2050 net-zero emissions target, as this target is currently outside our planning period.In the future, as society moves towards net-zero emissions, we expect Shell's operating plans to reflect this movement.
+However, if society is not net zero in 2050, as of today, there would be significant risk that Shell may not meet this target.
+Forward-looking non-GAAP measures This report may contain certain forward-looking non-GAAP measures such as [cash capital expenditure] and [divestments].
+We are unable to provide a reconciliation of these forward-looking Non-GAAP measures to the most comparable GAAP financial measures because certain information needed to reconcile those non-GAAP measures to the most comparable GAAP financial measures is dependent on future events some of which are outside the control of Shell, such as oil and gas prices, interest rates and exchange rates.
+Moreover, estimating such GAAP measures with the required precision necessary to provide a meaningful reconciliation is extremely difficult and could not be accomplished without unreasonable effort.
+Non-GAAP measures in respect of future periods which cannot be reconciled to the most comparable GAAP financial measure are calculated in a manner which is consistent with the accounting policies applied in Shell plc's consolidated financial statements.
+The contents of websites referred to in this report do not form part of this report.
+We may have used certain terms, such as resources, in this report that the United States Securities and Exchange Commission (SEC) strictly prohibits us from including in our filings with the SEC.
+Investors are urged to consider closely the disclosure in our Form 20-F, File No 1-32575, available on the SEC website sec.gov.
+Additional information As used in this Report, "accountable" is intended to mean: required or expected to justify actions or decisions.
+The accountable person does not necessarily implement the action or decision (implementation is usually carried out by the person who is Responsible) but must organise the implementation and verify that the action has been carried out as required.
+This includes obtaining requisite assurance from Shell companies that the framework is operating effectively.
+"Responsible" is intended to mean: required or expected to implement actions or decisions.
+Each Shell company and Shell-operated venture is responsible for its operational performance and compliance with the Shell General Business Principles, Code of Conduct, Statement on Risk Management and Risk Manual, and Standards and Manuals.
+This includes responsibility for the operationalisation and implementation of Shell Group strategies and policies.
+CO2 compensation does not imply that there is no environmental impact from the production and use of the product as associated emissions remain in the atmosphere.
+CO2 compensation is not a substitute for switching to lower emission energy solutions or reducing the use of fossil fuels.
+Shell businesses focus first on emissions that can be avoided or reduced and only then, compensate the remaining emissions.
+"carbon neutral" or "CO2 compensated" indicates that Shell will engage in a transaction where an amount of CO2 equivalent to the value of the remaining CO2e emissions associated with the raw material extraction, transport, production, distribution and usage /end-of-life (if Lubricants or other non-energy product) of the product are compensated through the purchase and retirement of carbon credits generated from CO2 compensation projects.
+Although these carbon credits have been generated in accordance with international carbon standards, the compensation may not be exact.
+CO2e( CO2 equivalent) refers to CO2, CH4, N2O.
+Cautionary note 60 Shell Energy Transition Strategy 2024 60 Shell Energy Transition Strategy 2024 Check our latest news www.facebook.com/shell linkedin.com/company/shell Shell.com All our reports are available online at Shell.com/annual-publications • Comprehensive financial information on our activities throughout 2023 • Detailed information on Shell’s taxes • Report on our progress in contributing to sustainable development • Energy Transition Strategy 2024

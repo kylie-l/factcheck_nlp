@@ -29,14 +29,14 @@ SAVE_EVERY = 3  # checkpoint every N companies
 # ==========================
 
 
-def fetch_guardian_articles(query, pages=1, delay=0.5):
+def fetch_guardian_articles(company, pages=1, delay=0.5):
     """Fetch Guardian articles mentioning the company name."""
     all_articles = []
 
     for page in range(1, pages + 1):
         params = {
             "api-key": API_KEY,
-            "q": f'"{query}"',  # exact phrase search
+            "q": f'"{company}"',  # exact phrase search
             "page": page,
             "page-size": PAGE_SIZE,
             "show-fields": "headline,bodyText,byline,publication,webPublicationDate",
@@ -44,7 +44,7 @@ def fetch_guardian_articles(query, pages=1, delay=0.5):
         }
         r = requests.get(BASE_URL, params=params)
         if r.status_code != 200:
-            print(f"⚠️ Error {r.status_code} for query '{query}', page {page}")
+            print(f"⚠️ Error {r.status_code} for query '{company}', page {page}")
             break
 
         data = r.json()
@@ -63,7 +63,8 @@ def fetch_guardian_articles(query, pages=1, delay=0.5):
                 "publication": fields.get("publication"),
                 "text": fields.get("bodyText"),
                 "section": item.get("sectionName"),
-                "query": query,
+                "query": company,
+                "companies": [company],  # ✅ NEW: start a list for companies mentioned
             }
             all_articles.append(record)
 
@@ -84,6 +85,23 @@ def filter_environmental(articles):
         if any(k in text for k in lower_keywords):
             filtered.append(art)
     return filtered
+
+
+def merge_articles(all_articles, new_articles):
+    """
+    Merge new company results into the global article dict.
+    If an article already exists, add the company to its list.
+    """
+    for art in new_articles:
+        art_id = art["id"]
+        if art_id in all_articles:
+            existing = all_articles[art_id]
+            # Add new company if not already listed
+            if art["companies"][0] not in existing["companies"]:
+                existing["companies"].append(art["companies"][0])
+        else:
+            all_articles[art_id] = art
+    return all_articles
 
 
 def save_checkpoint(records):
@@ -120,9 +138,8 @@ def main():
         articles = fetch_guardian_articles(company, pages=args.pages)
         filtered = filter_environmental(articles)
 
-        for art in filtered:
-            if art["id"] not in all_articles:
-                all_articles[art["id"]] = art
+        # ✅ Merge articles while preserving cross-company references
+        all_articles = merge_articles(all_articles, filtered)
 
         if company_count % SAVE_EVERY == 0:
             save_checkpoint(list(all_articles.values()))

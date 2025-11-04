@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import os
 
 # ========= CONFIG =========
-INPUT_FILE = "data/processed/claim_evidence_pairs_hybrid_fixed.jsonl"
+INPUT_FILE = "data/processed/claim_evidence_pairs_two_stage.jsonl"
 EXPORT_EXAMPLES = True
 EXPORT_PATH = "data/processed/alignment_examples.csv"
 SHOW_PLOTS = True

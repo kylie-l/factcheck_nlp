@@ -32,7 +32,8 @@ def build_query(company, keywords):
     processed_keywords = []
     for k in keywords:
         k = k.strip()
-        if " " in k:  # multi-word phrase → quote it
+        # Quote if keyword has spaces OR hyphens
+        if " " in k or "-" in k:
             processed_keywords.append(f'"{k}"')
         else:
             processed_keywords.append(k)
@@ -41,11 +42,12 @@ def build_query(company, keywords):
 
 
 
+
 import io
 import csv
 
 def fetch_articles(company, keywords, maxrecords=250, lang="English"):
-    """Query the GDELT 2.0 Doc API directly with safe keyword chunking and fallback."""
+    """Query the GDELT 2.0 Doc API with safe keyword chunking and fallback for short/generic names."""
     results = []
     CHUNK_SIZE = 5
     keyword_batches = [keywords[i:i + CHUNK_SIZE] for i in range(0, len(keywords), CHUNK_SIZE)]
@@ -57,68 +59,38 @@ def fetch_articles(company, keywords, maxrecords=250, lang="English"):
             "mode": "ArtList",
             "format": "json",
             "maxrecords": maxrecords,
-            "sourcelang": lang
+            "sourcelang": lang,
         }
 
-        for attempt in range(2):  # 1 retry if it fails
+        MAX_RETRIES = 3
+        for attempt in range(MAX_RETRIES):
             try:
-                import random
+                r = requests.get(BASE_URL, params=params, timeout=60)
+                text = r.text.strip()
 
-                MAX_RETRIES = 3
-
-                for attempt in range(MAX_RETRIES):
-                    try:
-                        r = requests.get(BASE_URL, params=params, timeout=60)
-                        if r.status_code == 200 and r.text.strip().startswith("{"):
-                            data = r.json().get("articles", [])
-                            print(f"✅ {len(data)} results for {company} batch {batch[:3]}")
-                            for d in data:
-                                results.append({
-                                    "company": company,
-                                    "query": query,
-                                    "title": d.get("title"),
-                                    "url": d.get("url"),
-                                    "date": d.get("seendate"),
-                                    "domain": d.get("domain"),
-                                    "language": d.get("language"),
-                                    "sourceCountry": d.get("sourceCountry"),
-                                    "tone": d.get("tone"),
-                                })
-                            break  # success, exit retry loop
-
-                        elif r.status_code == 200 and r.text.strip() == "":
-                            print(f"ℹ️ No articles found for {company} batch {batch[:3]}")
-                            break
-
-                        else:
-                            print(f"⚠️ Non-JSON or unexpected response for {company} batch {batch[:3]}")
-                            print("Preview:", r.text[:100])
-                            break
-
-                    except requests.exceptions.ReadTimeout:
-                        wait = (attempt + 1) * 10 + random.uniform(0, 5)
-                        print(f"⏳ Timeout fetching {company} batch {batch[:3]} — retrying in {wait:.1f}s...")
-                        time.sleep(wait)
-                        continue
-
-                    except Exception as e:
-                        print(f"⚠️ Other error for {company} batch {batch[:3]}: {e}")
-                        time.sleep(5)
-                        continue
+                # ============= Error handling =============
+                if "too short" in text.lower():
+                    print(f"⚠️ GDELT rejected query for {company} batch {batch[:3]}: phrase too short.")
+                    # Try fallback with expanded company name
+                    fallback_name = f"{company} Motor" if len(company.split()) == 1 else f"{company} Corporation"
+                    params["query"] = build_query(fallback_name, batch)
+                    print(f"🔁 Retrying with fallback name: {fallback_name}")
+                    time.sleep(2)
+                    r = requests.get(BASE_URL, params=params, timeout=60)
+                    text = r.text.strip()
 
                 if r.status_code != 200:
                     print(f"⚠️ HTTP {r.status_code} for {company} batch {batch[:3]}")
-                    continue
+                    break
 
-                text = r.text.strip()
-
-                # 1️⃣ Case: got valid JSON
+                # Case 1️⃣: Valid JSON
                 if text.startswith("{"):
                     data = r.json().get("articles", [])
+                    print(f"✅ {len(data)} results for {company} batch {batch[:3]}")
                     for d in data:
                         results.append({
                             "company": company,
-                            "query": query,
+                            "query": params["query"],
                             "title": d.get("title"),
                             "url": d.get("url"),
                             "date": d.get("seendate"),
@@ -127,9 +99,14 @@ def fetch_articles(company, keywords, maxrecords=250, lang="English"):
                             "sourceCountry": d.get("sourceCountry"),
                             "tone": d.get("tone"),
                         })
-                    break  # exit retry loop if successful
+                    break  # success → stop retries
 
-                # 2️⃣ Case: fallback to CSV mode if non-JSON
+                # Case 2️⃣: Empty
+                elif text == "":
+                    print(f"ℹ️ No articles found for {company} batch {batch[:3]}")
+                    break
+
+                # Case 3️⃣: CSV fallback
                 else:
                     params["format"] = "csv"
                     r_csv = requests.get(BASE_URL, params=params, timeout=30)
@@ -139,7 +116,7 @@ def fetch_articles(company, keywords, maxrecords=250, lang="English"):
                         for row in reader:
                             results.append({
                                 "company": company,
-                                "query": query,
+                                "query": params["query"],
                                 "title": row.get("TITLE"),
                                 "url": row.get("URL"),
                                 "date": row.get("DATE"),
@@ -148,16 +125,24 @@ def fetch_articles(company, keywords, maxrecords=250, lang="English"):
                                 "sourceCountry": row.get("SOURCECOUNTRY"),
                                 "tone": row.get("TONE"),
                             })
+                        print(f"✅ CSV fallback worked for {company} batch {batch[:3]}")
                         break
                     else:
                         print(f"⚠️ Non-JSON and non-CSV response for {company} batch {batch[:3]}")
                         print("Preview:", text[:120])
                         break
 
+            except requests.exceptions.ReadTimeout:
+                wait = (attempt + 1) * 10
+                print(f"⏳ Timeout fetching {company} batch {batch[:3]} — retrying in {wait}s...")
+                time.sleep(wait)
+                continue
             except Exception as e:
-                print(f"⚠️ Exception fetching {company} batch {batch[:3]}: {e}")
-                time.sleep(2)
-        time.sleep(1.0)
+                print(f"⚠️ Error fetching {company} batch {batch[:3]}: {e}")
+                time.sleep(3)
+                continue
+
+        time.sleep(1.0)  # throttle between batches
 
     return results
 

@@ -18,7 +18,7 @@ import re
 import torch
 
 # ========= CONFIG =========
-CORPORATE_CLAIMS = "data/processed/claims_environmental.jsonl"
+CORPORATE_CLAIMS = "data/processed/claims_full.jsonl"
 GUARDIAN_ARTICLES = "data/raw/guardian_articles.jsonl"
 OUTPUT_JSONL = "data/processed/claim_evidence_pairs_two_stage.jsonl"
 
